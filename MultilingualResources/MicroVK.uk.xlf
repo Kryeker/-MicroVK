@@ -1154,6 +1154,30 @@
           <source>Сворачивать окно плеера</source>
           <target state="translated">Згортати вікно плеєра</target>
         </trans-unit>
+        <trans-unit id="ApiError_messageSend" translate="yes" xml:space="preserve">
+          <source>Сообщение не может быть отправлено, так как Вы разослали слишком много сообщений за последнее время.</source>
+          <target state="translated">Повідомлення не може бути відправлено, так як ви розіслали занадто багато повідомлень останнім часом.
+</target>
+        </trans-unit>
+        <trans-unit id="Translate" translate="yes" xml:space="preserve">
+          <source>перевод</source>
+          <target state="translated">переклад</target>
+        </trans-unit>
+        <trans-unit id="TranslateThanks" translate="yes" xml:space="preserve">
+          <source>Хотелось бы поблагодарить следующих людей, вызвавшихся перевести MicroVK:</source>
+          <target state="translated">Хотілося б подякувати наступним людям, що взялися перевекладати MicroVK:
+</target>
+        </trans-unit>
+        <trans-unit id="TranslateTopic" translate="yes" xml:space="preserve">
+          <source>Пожалуйста, ознакомтесь с [url=https://vk.com/topic-35726826_31175546]обсуждением[/url], если хотите перевести MicroVK на свой язык.</source>
+          <target state="translated">Будь ласка, ознайомтесь з [url = https: //vk.com/topic-35726826_31175546] обговоренням [/ url], якщо хочете перевести MicroVK на свою мову.
+</target>
+        </trans-unit>
+        <trans-unit id="VersionError" translate="yes" xml:space="preserve">
+          <source>Сведения о версии и обновлениях недоступны, пожалуйста убедитесь что программа правильно установлена.</source>
+          <target state="translated">Відомості про версію і оновлення недоступні, будь ласка переконайтеся що програма правильно встановлена.
+</target>
+        </trans-unit>
       </group>
     </body>
   </file>

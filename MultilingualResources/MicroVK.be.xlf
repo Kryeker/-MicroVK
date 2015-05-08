@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="ru" target-language="be" original="MICROVK/MY PROJECT/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en" target-language="be" original="MICROVK/MY PROJECT/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1132.0" tool-company="Microsoft" />
     </header>
@@ -1154,6 +1154,26 @@
         <trans-unit id="HidePlayer" translate="yes" xml:space="preserve">
           <source>Сворачивать окно плеера</source>
           <target state="new">Сворачивать окно плеера</target>
+        </trans-unit>
+        <trans-unit id="ApiError_messageSend" translate="yes" xml:space="preserve">
+          <source>Сообщение не может быть отправлено, так как Вы разослали слишком много сообщений за последнее время.</source>
+          <target state="new">Сообщение не может быть отправлено, так как Вы разослали слишком много сообщений за последнее время.</target>
+        </trans-unit>
+        <trans-unit id="Translate" translate="yes" xml:space="preserve">
+          <source>перевод</source>
+          <target state="new">перевод</target>
+        </trans-unit>
+        <trans-unit id="TranslateThanks" translate="yes" xml:space="preserve">
+          <source>Хотелось бы поблагодарить следующих людей, вызвавшихся перевести MicroVK:</source>
+          <target state="new">Хотелось бы поблагодарить следующих людей, вызвавшихся перевести MicroVK:</target>
+        </trans-unit>
+        <trans-unit id="TranslateTopic" translate="yes" xml:space="preserve">
+          <source>Пожалуйста, ознакомтесь с [url=https://vk.com/topic-35726826_31175546]обсуждением[/url], если хотите перевести MicroVK на свой язык.</source>
+          <target state="new">Пожалуйста, ознакомтесь с [url=https://vk.com/topic-35726826_31175546]обсуждением[/url], если хотите перевести MicroVK на свой язык.</target>
+        </trans-unit>
+        <trans-unit id="VersionError" translate="yes" xml:space="preserve">
+          <source>Сведения о версии и обновлениях недоступны, пожалуйста убедитесь что программа правильно установлена.</source>
+          <target state="new">Сведения о версии и обновлениях недоступны, пожалуйста убедитесь что программа правильно установлена.</target>
         </trans-unit>
       </group>
     </body>
