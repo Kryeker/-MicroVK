@@ -979,7 +979,7 @@
           <target state="translated">сторінку користувача видалено</target>
         </trans-unit>
         <trans-unit id="AboutProgramm" translate="yes" xml:space="preserve">
-          <source>О программе..</source>
+          <source>О программе</source>
           <target state="translated">Про програму</target>
         </trans-unit>
         <trans-unit id="BrowserLoginError1" translate="yes" xml:space="preserve">
@@ -1165,17 +1165,35 @@
         </trans-unit>
         <trans-unit id="TranslateThanks" translate="yes" xml:space="preserve">
           <source>Хотелось бы поблагодарить следующих людей, вызвавшихся перевести MicroVK:</source>
-          <target state="translated">Хотілося б подякувати наступним людям, що взялися перевекладати MicroVK:
+          <target state="translated">Хотілося б подякувати наступним людям, що взялися перекладати MicroVK:
 </target>
         </trans-unit>
         <trans-unit id="TranslateTopic" translate="yes" xml:space="preserve">
           <source>Пожалуйста, ознакомтесь с [url=https://vk.com/topic-35726826_31175546]обсуждением[/url], если хотите перевести MicroVK на свой язык.</source>
-          <target state="translated">Будь ласка, ознайомтесь з [url = https: //vk.com/topic-35726826_31175546] обговоренням [/ url], якщо хочете перевести MicroVK на свою мову.
+          <target state="translated">Будь ласка, ознайомтесь з [url=https://vk.com/topic-35726826_31175546]обговоренням[/ url], якщо хочете перевести MicroVK на свою мову.
 </target>
         </trans-unit>
         <trans-unit id="VersionError" translate="yes" xml:space="preserve">
           <source>Сведения о версии и обновлениях недоступны, пожалуйста убедитесь что программа правильно установлена.</source>
           <target state="translated">Відомості про версію і оновлення недоступні, будь ласка переконайтеся що програма правильно встановлена.
+</target>
+        </trans-unit>
+        <trans-unit id="library" translate="yes" xml:space="preserve">
+          <source>Библиотеки</source>
+          <target state="translated">Бібліотеки</target>
+        </trans-unit>
+        <trans-unit id="library_1" translate="yes" xml:space="preserve">
+          <source>Эта версия MicroVK была собрана с использованием следующих библиотек:</source>
+          <target state="translated">Ця версія MicroVK була зібрана з використанням наступних бібліотек:
+</target>
+        </trans-unit>
+        <trans-unit id="donate" translate="yes" xml:space="preserve">
+          <source>Пожертвовать деньги</source>
+          <target state="translated">Пожертвувати кошти</target>
+        </trans-unit>
+        <trans-unit id="Feedback" translate="yes" xml:space="preserve">
+          <source>Связаться с автором программы</source>
+          <target state="translated">Зв'язатися з автором програми
 </target>
         </trans-unit>
       </group>

@@ -635,8 +635,9 @@
           <target state="translated">Даная функцыя ўсё яшчэ знаходзіцца ў распрацоўцы, гэта значыць не працуе</target>
         </trans-unit>
         <trans-unit id="AboutProgramm" translate="yes" xml:space="preserve">
-          <source>О программе..</source>
-          <target state="translated">Аб праграме</target>
+          <source>О программе</source>
+          <target state="needs-review-translation">Аб праграме</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="addToYourAudio" translate="yes" xml:space="preserve">
           <source>Добавлено в Ваши аудиозаписи</source>
@@ -1174,6 +1175,22 @@
         <trans-unit id="VersionError" translate="yes" xml:space="preserve">
           <source>Сведения о версии и обновлениях недоступны, пожалуйста убедитесь что программа правильно установлена.</source>
           <target state="new">Сведения о версии и обновлениях недоступны, пожалуйста убедитесь что программа правильно установлена.</target>
+        </trans-unit>
+        <trans-unit id="library" translate="yes" xml:space="preserve">
+          <source>Библиотеки</source>
+          <target state="new">Библиотеки</target>
+        </trans-unit>
+        <trans-unit id="library_1" translate="yes" xml:space="preserve">
+          <source>Эта версия MicroVK была собрана с использованием следующих библиотек:</source>
+          <target state="new">Эта версия MicroVK была собрана с использованием следующих библиотек:</target>
+        </trans-unit>
+        <trans-unit id="donate" translate="yes" xml:space="preserve">
+          <source>Пожертвовать деньги</source>
+          <target state="new">Пожертвовать деньги</target>
+        </trans-unit>
+        <trans-unit id="Feedback" translate="yes" xml:space="preserve">
+          <source>Связаться с автором программы</source>
+          <target state="new">Связаться с автором программы</target>
         </trans-unit>
       </group>
     </body>
