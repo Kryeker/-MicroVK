@@ -2,7 +2,7 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en" target-language="be" original="MICROVK/MY PROJECT/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1132.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1262.0" tool-company="Microsoft" />
     </header>
     <body>
       <group id="MICROVK/MY PROJECT/RESOURCES.RESX">
@@ -212,7 +212,8 @@
         </trans-unit>
         <trans-unit id="About_Me" translate="yes" xml:space="preserve">
           <source>О себе</source>
-          <target state="translated">Пра сябе</target>
+          <target state="needs-review-translation">Пра сябе</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="activities" translate="yes" xml:space="preserve">
           <source>Деятельность</source>
@@ -1088,13 +1089,10 @@
           <source>Просмотр вложений</source>
           <target state="translated">Прагляд укладанняў</target>
         </trans-unit>
-        <trans-unit id="languageSelect" translate="yes" xml:space="preserve">
-          <source>Выбор языка</source>
-          <target state="translated" state-qualifier="tm-suggestion">Выбраць мову</target>
-        </trans-unit>
         <trans-unit id="need_restart" translate="yes" xml:space="preserve">
-          <source>Потребуется перезапуск для применения настроек</source>
-          <target state="translated">Будзе патрэбна перазапусціць праграму для прымянення налад</target>
+          <source>Применить (потребуется перезапуск)</source>
+          <target state="needs-review-translation">Будзе патрэбна перазапусціць праграму для прымянення налад</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="New_friends" translate="yes" xml:space="preserve">
           <source>Новых друзей:</source>
@@ -1191,6 +1189,18 @@
         <trans-unit id="Feedback" translate="yes" xml:space="preserve">
           <source>Связаться с автором программы</source>
           <target state="new">Связаться с автором программы</target>
+        </trans-unit>
+        <trans-unit id="LanguageBe" translate="yes" xml:space="preserve">
+          <source>Беларускі</source>
+          <target state="new">Беларускі</target>
+        </trans-unit>
+        <trans-unit id="LanguageRu" translate="yes" xml:space="preserve">
+          <source>Русский</source>
+          <target state="new">Русский</target>
+        </trans-unit>
+        <trans-unit id="LanguageUk" translate="yes" xml:space="preserve">
+          <source>Українська</source>
+          <target state="new">Українська</target>
         </trans-unit>
       </group>
     </body>
