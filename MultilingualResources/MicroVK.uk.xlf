@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en" target-language="uk" original="MICROVK/MY PROJECT/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="ru" target-language="uk" original="MICROVK/MY PROJECT/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1262.0" tool-company="Microsoft" />
     </header>
@@ -1191,17 +1191,21 @@
           <source>Связаться с автором программы</source>
           <target state="translated">Зв'язатися з автором програми</target>
         </trans-unit>
-        <trans-unit id="LanguageBe" translate="yes" xml:space="preserve">
-          <source>Беларускі</source>
-          <target state="new">Беларускі</target>
+        <trans-unit id="action_chat_create" translate="yes" xml:space="preserve">
+          <source>создал беседу</source>
+          <target state="translated">створив чат</target>
         </trans-unit>
-        <trans-unit id="LanguageRu" translate="yes" xml:space="preserve">
-          <source>Русский</source>
-          <target state="new">Русский</target>
+        <trans-unit id="action_chat_create1" translate="yes" xml:space="preserve">
+          <source>создала беседу</source>
+          <target state="translated">створила чат</target>
         </trans-unit>
-        <trans-unit id="LanguageUk" translate="yes" xml:space="preserve">
-          <source>Українська</source>
-          <target state="new">Українська</target>
+        <trans-unit id="postWall" translate="yes" xml:space="preserve">
+          <source>Запись на стене</source>
+          <target state="translated">Напис на стіні</target>
+        </trans-unit>
+        <trans-unit id="AutoTranslate" translate="yes" xml:space="preserve">
+          <source>Машинный перевод</source>
+          <target state="translated">Машинний переклад</target>
         </trans-unit>
       </group>
     </body>

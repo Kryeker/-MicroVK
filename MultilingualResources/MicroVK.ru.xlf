@@ -1186,17 +1186,21 @@
           <source>Связаться с автором программы</source>
           <target state="new">Связаться с автором программы</target>
         </trans-unit>
-        <trans-unit id="LanguageBe" translate="yes" xml:space="preserve">
-          <source>Беларускі</source>
-          <target state="new">Беларускі</target>
+        <trans-unit id="action_chat_create" translate="yes" xml:space="preserve">
+          <source>создал беседу</source>
+          <target state="new">создал беседу</target>
         </trans-unit>
-        <trans-unit id="LanguageRu" translate="yes" xml:space="preserve">
-          <source>Русский</source>
-          <target state="new">Русский</target>
+        <trans-unit id="action_chat_create1" translate="yes" xml:space="preserve">
+          <source>создала беседу</source>
+          <target state="new">создала беседу</target>
         </trans-unit>
-        <trans-unit id="LanguageUk" translate="yes" xml:space="preserve">
-          <source>Українська</source>
-          <target state="new">Українська</target>
+        <trans-unit id="postWall" translate="yes" xml:space="preserve">
+          <source>Запись на стене</source>
+          <target state="new">Запись на стене</target>
+        </trans-unit>
+        <trans-unit id="AutoTranslate" translate="yes" xml:space="preserve">
+          <source>Машинный перевод</source>
+          <target state="new">Машинный перевод</target>
         </trans-unit>
       </group>
     </body>
