@@ -5,7 +5,7 @@
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1262.0" tool-company="Microsoft" />
     </header>
     <body>
-      <group id="MICROVK/MY PROJECT/RESOURCES.RESX">
+      <group id="MICROVK/MY PROJECT/RESOURCES.RESX" datatype="resx">
         <trans-unit id="All" translate="yes" xml:space="preserve">
           <source>Все</source>
           <target state="translated">Всі</target>
@@ -1206,6 +1206,22 @@
         <trans-unit id="AutoTranslate" translate="yes" xml:space="preserve">
           <source>Машинный перевод</source>
           <target state="translated">Машинний переклад</target>
+        </trans-unit>
+        <trans-unit id="radio" translate="yes" xml:space="preserve">
+          <source>Радио</source>
+          <target state="new">Радио</target>
+        </trans-unit>
+        <trans-unit id="Topmost" translate="yes" xml:space="preserve">
+          <source>Поверх всех окон</source>
+          <target state="new">Поверх всех окон</target>
+        </trans-unit>
+        <trans-unit id="MusicPlayer" translate="yes" xml:space="preserve">
+          <source>Музыкальный плеер</source>
+          <target state="new">Музыкальный плеер</target>
+        </trans-unit>
+        <trans-unit id="Snap" translate="yes" xml:space="preserve">
+          <source>Прилипать к границам экрана</source>
+          <target state="translated">Прилипати до границь екрану</target>
         </trans-unit>
       </group>
     </body>

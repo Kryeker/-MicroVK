@@ -1206,6 +1206,22 @@
           <source>Машинный перевод</source>
           <target state="new">Машинный перевод</target>
         </trans-unit>
+        <trans-unit id="radio" translate="yes" xml:space="preserve">
+          <source>Радио</source>
+          <target state="new">Радио</target>
+        </trans-unit>
+        <trans-unit id="Topmost" translate="yes" xml:space="preserve">
+          <source>Поверх всех окон</source>
+          <target state="new">Поверх всех окон</target>
+        </trans-unit>
+        <trans-unit id="MusicPlayer" translate="yes" xml:space="preserve">
+          <source>Музыкальный плеер</source>
+          <target state="new">Музыкальный плеер</target>
+        </trans-unit>
+        <trans-unit id="Snap" translate="yes" xml:space="preserve">
+          <source>Прилипать к границам экрана</source>
+          <target state="new">Прилипать к границам экрана</target>
+        </trans-unit>
       </group>
     </body>
   </file>
