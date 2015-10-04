@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en" target-language="ru" original="MICROVK/MY PROJECT/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="ru" target-language="ru" original="MICROVK/MY PROJECT/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1262.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1447.0" tool-company="Microsoft" />
     </header>
     <body>
-      <group id="MICROVK/MY PROJECT/RESOURCES.RESX">
+      <group id="MICROVK/MY PROJECT/RESOURCES.RESX" datatype="resx">
         <trans-unit id="Acoustic" translate="yes" xml:space="preserve">
           <source>Акустическая</source>
           <target state="new">Акустическая</target>
@@ -495,8 +495,8 @@
           <target state="new">Цвет</target>
         </trans-unit>
         <trans-unit id="Copyright" translate="yes" xml:space="preserve">
-          <source>MicroVK, © 2014, Artem Moldowanenko</source>
-          <target state="new">MicroVK, © 2014, Artem Moldowanenko</target>
+          <source>MicroVK, © 2015, Artem Moldowanenko</source>
+          <target state="new">MicroVK, © 2015, Artem Moldowanenko</target>
         </trans-unit>
         <trans-unit id="Font" translate="yes" xml:space="preserve">
           <source>Шрифт</source>
@@ -629,10 +629,6 @@
         <trans-unit id="VoiceTest" translate="yes" xml:space="preserve">
           <source>Проба голоса</source>
           <target state="new">Проба голоса</target>
-        </trans-unit>
-        <trans-unit id="VoiceText" translate="yes" xml:space="preserve">
-          <source>Даная функция все еще находиться в разработке, тоесть не работает</source>
-          <target state="new">Даная функция все еще находиться в разработке, тоесть не работает</target>
         </trans-unit>
         <trans-unit id="AboutProgramm" translate="yes" xml:space="preserve">
           <source>О программе</source>
@@ -1217,6 +1213,98 @@
         <trans-unit id="Snap" translate="yes" xml:space="preserve">
           <source>Прилипать к границам экрана</source>
           <target state="new">Прилипать к границам экрана</target>
+        </trans-unit>
+        <trans-unit id="Game" translate="yes" xml:space="preserve">
+          <source>Игра</source>
+          <target state="new">Игра</target>
+        </trans-unit>
+        <trans-unit id="GameLabel1" translate="yes" xml:space="preserve">
+          <source>Собрал {0} и набрал: {1}</source>
+          <target state="new">Собрал {0} и набрал: {1}</target>
+        </trans-unit>
+        <trans-unit id="GameLabel2" translate="yes" xml:space="preserve">
+          <source>Собралa {0} и набралa: {1}</source>
+          <target state="new">Собралa {0} и набралa: {1}</target>
+        </trans-unit>
+        <trans-unit id="Share" translate="yes" xml:space="preserve">
+          <source>Поделиться</source>
+          <target state="new">Поделиться</target>
+        </trans-unit>
+        <trans-unit id="Game3" translate="yes" xml:space="preserve">
+          <source>Запись будет размещена на вашей стене. Продолжить?</source>
+          <target state="new">Запись будет размещена на вашей стене. Продолжить?</target>
+        </trans-unit>
+        <trans-unit id="Copy" translate="yes" xml:space="preserve">
+          <source>Копировать</source>
+          <target state="new">Копировать</target>
+        </trans-unit>
+        <trans-unit id="InDeveloping" translate="yes" xml:space="preserve">
+          <source>В разработке</source>
+          <target state="new">В разработке</target>
+        </trans-unit>
+        <trans-unit id="GlobalSearch" translate="yes" xml:space="preserve">
+          <source>Глобальный поиск</source>
+          <target state="new">Глобальный поиск</target>
+        </trans-unit>
+        <trans-unit id="correspondents" translate="yes" xml:space="preserve">
+          <source>Собеседники</source>
+          <target state="new">Собеседники</target>
+        </trans-unit>
+        <trans-unit id="events" translate="yes" xml:space="preserve">
+          <source>Встречи</source>
+          <target state="new">Встречи</target>
+        </trans-unit>
+        <trans-unit id="publics" translate="yes" xml:space="preserve">
+          <source>Публичные страницы</source>
+          <target state="new">Публичные страницы</target>
+        </trans-unit>
+        <trans-unit id="attachments" translate="yes" xml:space="preserve">
+          <source>Вложения</source>
+          <target state="new">Вложения</target>
+        </trans-unit>
+        <trans-unit id="Audio" translate="yes" xml:space="preserve">
+          <source>Аудиозапись</source>
+          <target state="new">Аудиозапись</target>
+        </trans-unit>
+        <trans-unit id="Doc" translate="yes" xml:space="preserve">
+          <source>Документ</source>
+          <target state="new">Документ</target>
+        </trans-unit>
+        <trans-unit id="sticker" translate="yes" xml:space="preserve">
+          <source>Стикер</source>
+          <target state="new">Стикер</target>
+        </trans-unit>
+        <trans-unit id="wall_reply" translate="yes" xml:space="preserve">
+          <source>Комментарий к записи</source>
+          <target state="new">Комментарий к записи</target>
+        </trans-unit>
+        <trans-unit id="I" translate="yes" xml:space="preserve">
+          <source>Я</source>
+          <target state="new">Я</target>
+        </trans-unit>
+        <trans-unit id="chat_users" translate="yes" xml:space="preserve">
+          <source>Участники беседы</source>
+          <target state="new">Участники беседы</target>
+        </trans-unit>
+        <trans-unit id="yandex_image" translate="yes" xml:space="preserve">
+          <source>Яндекс.Картинки</source>
+          <target state="new">Яндекс.Картинки</target>
+        </trans-unit>
+        <trans-unit id="Votes" translate="yes" xml:space="preserve">
+          <source>Проголосовало:</source>
+          <target state="new">Проголосовало:</target>
+        </trans-unit>
+        <trans-unit id="by_marked" translate="yes" xml:space="preserve">
+          <source>Был(а) отмечен(а) на</source>
+          <target state="new">Был(а) отмечен(а) на</target>
+        </trans-unit>
+        <trans-unit id="close_all" translate="yes" xml:space="preserve">
+          <source>Закрыть все</source>
+          <target state="new">Закрыть все</target>
+        </trans-unit>
+        <trans-unit id="wall" translate="yes" xml:space="preserve">
+          <source>Стена</source>
+          <target state="new">Стена</target>
         </trans-unit>
       </group>
     </body>
