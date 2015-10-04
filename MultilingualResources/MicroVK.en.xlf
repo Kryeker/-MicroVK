@@ -416,7 +416,7 @@
         </trans-unit>
         <trans-unit id="programm" translate="yes" xml:space="preserve">
           <source>Программа</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Program</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Application</target>
         </trans-unit>
         <trans-unit id="right_edge" translate="yes" xml:space="preserve">
           <source>Правый край</source>
