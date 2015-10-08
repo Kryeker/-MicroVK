@@ -152,7 +152,7 @@
         </trans-unit>
         <trans-unit id="Photo" translate="yes" xml:space="preserve">
           <source>Фото</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Photo</target>
+          <target state="translated">Photos</target>
         </trans-unit>
         <trans-unit id="Photos_walls" translate="yes" xml:space="preserve">
           <source>Фото на стенах</source>
@@ -324,7 +324,7 @@
         </trans-unit>
         <trans-unit id="Horizontal" translate="yes" xml:space="preserve">
           <source>По горизонтали:</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Horizontal alignment:</target>
+          <target state="translated">Horizontal:</target>
         </trans-unit>
         <trans-unit id="Important_in_life" translate="yes" xml:space="preserve">
           <source>Главное в жизни</source>
@@ -416,7 +416,7 @@
         </trans-unit>
         <trans-unit id="programm" translate="yes" xml:space="preserve">
           <source>Программа</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Application</target>
+          <target state="translated">Application</target>
         </trans-unit>
         <trans-unit id="right_edge" translate="yes" xml:space="preserve">
           <source>Правый край</source>
@@ -448,7 +448,7 @@
         </trans-unit>
         <trans-unit id="Vertical" translate="yes" xml:space="preserve">
           <source>По вертикали:</source>
-          <target state="translated">Verticallly:</target>
+          <target state="translated">Vertical:</target>
         </trans-unit>
         <trans-unit id="Video_user" translate="yes" xml:space="preserve">
           <source>Видео с пользователем</source>
@@ -856,7 +856,7 @@
         </trans-unit>
         <trans-unit id="GroupVK" translate="yes" xml:space="preserve">
           <source>Группа приложения в ВК</source>
-          <target state="translated">Group of an application at vk.com</target>
+          <target state="translated">Visit application page at VK</target>
         </trans-unit>
         <trans-unit id="Invisible" translate="yes" xml:space="preserve">
           <source>Невидимый</source>
@@ -900,7 +900,7 @@
         </trans-unit>
         <trans-unit id="NotifycationConvert62" translate="yes" xml:space="preserve">
           <source>Набор в беседе</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">In a conversation set</target>
+          <target state="translated">Typing in a conversation</target>
         </trans-unit>
         <trans-unit id="NotifycationConvert8" translate="yes" xml:space="preserve">
           <source>Онлайн</source>
@@ -1032,7 +1032,7 @@
         </trans-unit>
         <trans-unit id="restart" translate="yes" xml:space="preserve">
           <source>Перезапуск</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Restarting</target>
+          <target state="translated">Restart</target>
         </trans-unit>
         <trans-unit id="Select1" translate="yes" xml:space="preserve">
           <source>Выбрать</source>
@@ -1140,7 +1140,7 @@
         </trans-unit>
         <trans-unit id="SystemSettings10" translate="yes" xml:space="preserve">
           <source>Закрывать окно по нажатию на кнопку "Закрыть"</source>
-          <target state="translated">Close the window by clicking the "close" button</target>
+          <target state="translated">Close the window by clicking "close" button</target>
         </trans-unit>
         <trans-unit id="Pin" translate="yes" xml:space="preserve">
           <source>Закрепить</source>
@@ -1212,7 +1212,7 @@
         </trans-unit>
         <trans-unit id="Snap" translate="yes" xml:space="preserve">
           <source>Прилипать к границам экрана</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Stick to the limits of the screen</target>
+          <target state="translated">Stick to the screen bounds</target>
         </trans-unit>
         <trans-unit id="Topmost" translate="yes" xml:space="preserve">
           <source>Поверх всех окон</source>
@@ -1305,6 +1305,10 @@
         <trans-unit id="wall" translate="yes" xml:space="preserve">
           <source>Стена</source>
           <target state="new">Стена</target>
+        </trans-unit>
+        <trans-unit id="unread" translate="yes" xml:space="preserve">
+          <source>Непрочитано</source>
+          <target state="new">Непрочитано</target>
         </trans-unit>
       </group>
     </body>
