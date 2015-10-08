@@ -592,7 +592,7 @@
         </trans-unit>
         <trans-unit id="Copyright" translate="yes" xml:space="preserve">
           <source>MicroVK, © 2015, Artem Moldowanenko</source>
-          <target state="new">MicroVK, © 2015, Artem Moldowanenko</target>
+          <target state="translated" state-qualifier="mt-suggestion">MicroVK, © 2015 року Артем Moldowanenko</target>
         </trans-unit>
         <trans-unit id="License1" translate="yes" xml:space="preserve">
           <source>Использование «MicroVK» подразумевает, что Вы принимаете условия настоящего</source>
@@ -1285,7 +1285,7 @@
         </trans-unit>
         <trans-unit id="I" translate="yes" xml:space="preserve">
           <source>Я</source>
-          <target state="new">Я</target>
+          <target state="translated" state-qualifier="tm-suggestion">Л</target>
         </trans-unit>
         <trans-unit id="chat_users" translate="yes" xml:space="preserve">
           <source>Участники беседы</source>
@@ -1293,7 +1293,7 @@
         </trans-unit>
         <trans-unit id="yandex_image" translate="yes" xml:space="preserve">
           <source>Яндекс.Картинки</source>
-          <target state="new">Яндекс.Картинки</target>
+          <target state="translated" state-qualifier="mt-suggestion">Яндекс. картинки</target>
         </trans-unit>
         <trans-unit id="Votes" translate="yes" xml:space="preserve">
           <source>Проголосовало:</source>

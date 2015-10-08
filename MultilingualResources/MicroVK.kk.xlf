@@ -232,7 +232,7 @@
         </trans-unit>
         <trans-unit id="Audio_Records" translate="yes" xml:space="preserve">
           <source>Аудиозаписи</source>
-          <target state="new">Аудиозаписи</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Дыбыс жазбалары</target>
         </trans-unit>
         <trans-unit id="Basic_Information" translate="yes" xml:space="preserve">
           <source>Основная информация</source>
@@ -388,7 +388,7 @@
         </trans-unit>
         <trans-unit id="number_messages" translate="yes" xml:space="preserve">
           <source>Количество сообщений</source>
-          <target state="new">Количество сообщений</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Хабарлар саны</target>
         </trans-unit>
         <trans-unit id="Online" translate="yes" xml:space="preserve">
           <source>Онлайн</source>
@@ -944,7 +944,7 @@
         </trans-unit>
         <trans-unit id="personallife1" translate="yes" xml:space="preserve">
           <source>Семья и дети</source>
-          <target state="new">Семья и дети</target>
+          <target state="needs-review-translation" state-qualifier="exact-match">Отбасы және балалар</target>
         </trans-unit>
         <trans-unit id="personallife2" translate="yes" xml:space="preserve">
           <source>Карьера и деньги</source>
@@ -952,7 +952,7 @@
         </trans-unit>
         <trans-unit id="personallife3" translate="yes" xml:space="preserve">
           <source>Развлечения и отдых</source>
-          <target state="new">Развлечения и отдых</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Ойнау және шолу</target>
         </trans-unit>
         <trans-unit id="personallife4" translate="yes" xml:space="preserve">
           <source>Наука и исследования</source>
@@ -984,7 +984,7 @@
         </trans-unit>
         <trans-unit id="personalPolitical3" translate="yes" xml:space="preserve">
           <source>Умеренные</source>
-          <target state="new">Умеренные</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Орташа</target>
         </trans-unit>
         <trans-unit id="personalPolitical4" translate="yes" xml:space="preserve">
           <source>Либеральные</source>
@@ -1056,7 +1056,7 @@
         </trans-unit>
         <trans-unit id="smoking5" translate="yes" xml:space="preserve">
           <source>Положительное</source>
-          <target state="new">Положительное</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Оң:</target>
         </trans-unit>
         <trans-unit id="successfully_updated" translate="yes" xml:space="preserve">
           <source>Программа успешно обновлена</source>
@@ -1196,11 +1196,11 @@
         </trans-unit>
         <trans-unit id="AutoTranslate" translate="yes" xml:space="preserve">
           <source>Машинный перевод</source>
-          <target state="new">Машинный перевод</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Машиналық аудару</target>
         </trans-unit>
         <trans-unit id="radio" translate="yes" xml:space="preserve">
           <source>Радио</source>
-          <target state="new">Радио</target>
+          <target state="needs-review-translation" state-qualifier="exact-match">Радио</target>
         </trans-unit>
         <trans-unit id="Topmost" translate="yes" xml:space="preserve">
           <source>Поверх всех окон</source>
@@ -1216,7 +1216,7 @@
         </trans-unit>
         <trans-unit id="Game" translate="yes" xml:space="preserve">
           <source>Игра</source>
-          <target state="new">Игра</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Ойын ақпарат тасушы</target>
         </trans-unit>
         <trans-unit id="GameLabel1" translate="yes" xml:space="preserve">
           <source>Собрал {0} и набрал: {1}</source>
@@ -1228,7 +1228,7 @@
         </trans-unit>
         <trans-unit id="Share" translate="yes" xml:space="preserve">
           <source>Поделиться</source>
-          <target state="new">Поделиться</target>
+          <target state="needs-review-translation" state-qualifier="exact-match">Бөлісу</target>
         </trans-unit>
         <trans-unit id="Game3" translate="yes" xml:space="preserve">
           <source>Запись будет размещена на вашей стене. Продолжить?</source>
@@ -1236,11 +1236,11 @@
         </trans-unit>
         <trans-unit id="Copy" translate="yes" xml:space="preserve">
           <source>Копировать</source>
-          <target state="new">Копировать</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">| көшіру</target>
         </trans-unit>
         <trans-unit id="InDeveloping" translate="yes" xml:space="preserve">
           <source>В разработке</source>
-          <target state="new">В разработке</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Құрылуда</target>
         </trans-unit>
         <trans-unit id="GlobalSearch" translate="yes" xml:space="preserve">
           <source>Глобальный поиск</source>
@@ -1252,7 +1252,7 @@
         </trans-unit>
         <trans-unit id="events" translate="yes" xml:space="preserve">
           <source>Встречи</source>
-          <target state="new">Встречи</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Кездесулер</target>
         </trans-unit>
         <trans-unit id="publics" translate="yes" xml:space="preserve">
           <source>Публичные страницы</source>
@@ -1260,15 +1260,15 @@
         </trans-unit>
         <trans-unit id="attachments" translate="yes" xml:space="preserve">
           <source>Вложения</source>
-          <target state="new">Вложения</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Салымдар</target>
         </trans-unit>
         <trans-unit id="Audio" translate="yes" xml:space="preserve">
           <source>Аудиозапись</source>
-          <target state="new">Аудиозапись</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Дыбысжазба</target>
         </trans-unit>
         <trans-unit id="Doc" translate="yes" xml:space="preserve">
           <source>Документ</source>
-          <target state="new">Документ</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Құжат атауы:</target>
         </trans-unit>
         <trans-unit id="sticker" translate="yes" xml:space="preserve">
           <source>Стикер</source>
@@ -1280,7 +1280,7 @@
         </trans-unit>
         <trans-unit id="I" translate="yes" xml:space="preserve">
           <source>Я</source>
-          <target state="new">Я</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">С</target>
         </trans-unit>
         <trans-unit id="chat_users" translate="yes" xml:space="preserve">
           <source>Участники беседы</source>
@@ -1300,7 +1300,7 @@
         </trans-unit>
         <trans-unit id="close_all" translate="yes" xml:space="preserve">
           <source>Закрыть все</source>
-          <target state="new">Закрыть все</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Бәрін жабу</target>
         </trans-unit>
         <trans-unit id="wall" translate="yes" xml:space="preserve">
           <source>Стена</source>

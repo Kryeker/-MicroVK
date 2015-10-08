@@ -1136,7 +1136,7 @@
         </trans-unit>
         <trans-unit id="Minimize" translate="yes" xml:space="preserve">
           <source>Свернуть</source>
-          <target state="new">Свернуть</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Згарнуць</target>
         </trans-unit>
         <trans-unit id="SystemSettings10" translate="yes" xml:space="preserve">
           <source>Закрывать окно по нажатию на кнопку "Закрыть"</source>
@@ -1144,7 +1144,7 @@
         </trans-unit>
         <trans-unit id="Pin" translate="yes" xml:space="preserve">
           <source>Закрепить</source>
-          <target state="new">Закрепить</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Прыстыкаваць</target>
         </trans-unit>
         <trans-unit id="HidePlayer" translate="yes" xml:space="preserve">
           <source>Сворачивать окно плеера</source>
@@ -1156,7 +1156,7 @@
         </trans-unit>
         <trans-unit id="Translate" translate="yes" xml:space="preserve">
           <source>перевод</source>
-          <target state="new">перевод</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Слоўнік</target>
         </trans-unit>
         <trans-unit id="TranslateThanks" translate="yes" xml:space="preserve">
           <source>Хотелось бы поблагодарить следующих людей, вызвавшихся перевести MicroVK:</source>
@@ -1172,7 +1172,7 @@
         </trans-unit>
         <trans-unit id="library" translate="yes" xml:space="preserve">
           <source>Библиотеки</source>
-          <target state="new">Библиотеки</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Бібліятэкі</target>
         </trans-unit>
         <trans-unit id="library_1" translate="yes" xml:space="preserve">
           <source>Эта версия MicroVK была собрана с использованием следующих библиотек:</source>
@@ -1200,11 +1200,11 @@
         </trans-unit>
         <trans-unit id="AutoTranslate" translate="yes" xml:space="preserve">
           <source>Машинный перевод</source>
-          <target state="new">Машинный перевод</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Машынны пераклад</target>
         </trans-unit>
         <trans-unit id="radio" translate="yes" xml:space="preserve">
           <source>Радио</source>
-          <target state="new">Радио</target>
+          <target state="needs-review-translation" state-qualifier="exact-match">Радыё</target>
         </trans-unit>
         <trans-unit id="Topmost" translate="yes" xml:space="preserve">
           <source>Поверх всех окон</source>
@@ -1220,7 +1220,7 @@
         </trans-unit>
         <trans-unit id="Game" translate="yes" xml:space="preserve">
           <source>Игра</source>
-          <target state="new">Игра</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Гульня</target>
         </trans-unit>
         <trans-unit id="GameLabel1" translate="yes" xml:space="preserve">
           <source>Собрал {0} и набрал: {1}</source>
@@ -1232,7 +1232,7 @@
         </trans-unit>
         <trans-unit id="Share" translate="yes" xml:space="preserve">
           <source>Поделиться</source>
-          <target state="new">Поделиться</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Сумесны доступ</target>
         </trans-unit>
         <trans-unit id="Game3" translate="yes" xml:space="preserve">
           <source>Запись будет размещена на вашей стене. Продолжить?</source>
@@ -1240,7 +1240,7 @@
         </trans-unit>
         <trans-unit id="Copy" translate="yes" xml:space="preserve">
           <source>Копировать</source>
-          <target state="new">Копировать</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Капіяваць у</target>
         </trans-unit>
         <trans-unit id="InDeveloping" translate="yes" xml:space="preserve">
           <source>В разработке</source>
@@ -1256,7 +1256,7 @@
         </trans-unit>
         <trans-unit id="events" translate="yes" xml:space="preserve">
           <source>Встречи</source>
-          <target state="new">Встречи</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Сустрэча</target>
         </trans-unit>
         <trans-unit id="publics" translate="yes" xml:space="preserve">
           <source>Публичные страницы</source>
@@ -1264,15 +1264,15 @@
         </trans-unit>
         <trans-unit id="attachments" translate="yes" xml:space="preserve">
           <source>Вложения</source>
-          <target state="new">Вложения</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Далучэнні</target>
         </trans-unit>
         <trans-unit id="Audio" translate="yes" xml:space="preserve">
           <source>Аудиозапись</source>
-          <target state="new">Аудиозапись</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Запіс гука</target>
         </trans-unit>
         <trans-unit id="Doc" translate="yes" xml:space="preserve">
           <source>Документ</source>
-          <target state="new">Документ</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Імя дакумента</target>
         </trans-unit>
         <trans-unit id="sticker" translate="yes" xml:space="preserve">
           <source>Стикер</source>
@@ -1284,7 +1284,7 @@
         </trans-unit>
         <trans-unit id="I" translate="yes" xml:space="preserve">
           <source>Я</source>
-          <target state="new">Я</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Т</target>
         </trans-unit>
         <trans-unit id="chat_users" translate="yes" xml:space="preserve">
           <source>Участники беседы</source>
@@ -1304,7 +1304,7 @@
         </trans-unit>
         <trans-unit id="close_all" translate="yes" xml:space="preserve">
           <source>Закрыть все</source>
-          <target state="new">Закрыть все</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Закрыць усе</target>
         </trans-unit>
         <trans-unit id="wall" translate="yes" xml:space="preserve">
           <source>Стена</source>
