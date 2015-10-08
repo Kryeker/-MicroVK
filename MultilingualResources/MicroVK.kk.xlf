@@ -1306,6 +1306,10 @@
           <source>Стена</source>
           <target state="new">Стена</target>
         </trans-unit>
+        <trans-unit id="unread" translate="yes" xml:space="preserve">
+          <source>Непрочитано</source>
+          <target state="new">Непрочитано</target>
+        </trans-unit>
       </group>
     </body>
   </file>

@@ -1297,19 +1297,23 @@
         </trans-unit>
         <trans-unit id="Votes" translate="yes" xml:space="preserve">
           <source>Проголосовало:</source>
-          <target state="new">Проголосовало:</target>
+          <target state="translated">Проголосувало:</target>
         </trans-unit>
         <trans-unit id="by_marked" translate="yes" xml:space="preserve">
           <source>Был(а) отмечен(а) на</source>
-          <target state="new">Был(а) отмечен(а) на</target>
+          <target state="translated">Був(а) відзначений(а) на</target>
         </trans-unit>
         <trans-unit id="close_all" translate="yes" xml:space="preserve">
           <source>Закрыть все</source>
-          <target state="new">Закрыть все</target>
+          <target state="translated">Закрити все</target>
         </trans-unit>
         <trans-unit id="wall" translate="yes" xml:space="preserve">
           <source>Стена</source>
-          <target state="new">Стена</target>
+          <target state="translated">Стіна</target>
+        </trans-unit>
+        <trans-unit id="unread" translate="yes" xml:space="preserve">
+          <source>Непрочитано</source>
+          <target state="translated">Непрочитане</target>
         </trans-unit>
       </group>
     </body>
