@@ -1315,6 +1315,10 @@
           <source>Непрочитано</source>
           <target state="translated">Непрочитане</target>
         </trans-unit>
+        <trans-unit id="reply" translate="yes" xml:space="preserve">
+          <source>Ответить</source>
+          <target state="translated">Відповісти</target>
+        </trans-unit>
       </group>
     </body>
   </file>
