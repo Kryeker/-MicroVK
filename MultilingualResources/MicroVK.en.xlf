@@ -783,8 +783,8 @@
           <target state="translated" state-qualifier="mt-suggestion">Invalid passkey</target>
         </trans-unit>
         <trans-unit id="BrowserLoginTips" translate="yes" xml:space="preserve">
-          <source>Разрешите доступ и скопируйте ссылку из адресной строки своего браузера. Ссылка вида</source>
-          <target state="translated" state-qualifier="mt-suggestion">Allow access and copy the link from the address bar of your browser. Link type</target>
+          <source>Разрешите доступ и скопируйте ссылку из адресной строки своего браузера. Ссылка вида - https://oauth.vk.com/blank.html#access_token=*****</source>
+          <target state="translated" state-qualifier="mt-suggestion">Allow access and copy the link from the address bar of your browser. Link type - https://oauth.vk.com/blank.html#access_token=*****</target>
         </trans-unit>
         <trans-unit id="BrowserLoginTips2" translate="yes" xml:space="preserve">
           <source>Введите полученную ссылку</source>
@@ -819,28 +819,12 @@
           <target state="translated" state-qualifier="tm-suggestion">Small</target>
         </trans-unit>
         <trans-unit id="friend_offline" translate="yes" xml:space="preserve">
-          <source>друг вышел из сети</source>
+          <source>друг вышел из сети;вышла из сети;вышел из сети</source>
           <target state="translated">friend is offline</target>
         </trans-unit>
-        <trans-unit id="friend_offline1" translate="yes" xml:space="preserve">
-          <source>вышла из сети</source>
-          <target state="translated">is offline</target>
-        </trans-unit>
-        <trans-unit id="friend_offline2" translate="yes" xml:space="preserve">
-          <source>вышел из сети</source>
-          <target state="translated">is offline</target>
-        </trans-unit>
         <trans-unit id="friend_online" translate="yes" xml:space="preserve">
-          <source>друг появился в сети</source>
+          <source>друг появился в сети;появилась в сети;появился в сети</source>
           <target state="translated">friend is online</target>
-        </trans-unit>
-        <trans-unit id="friend_online1" translate="yes" xml:space="preserve">
-          <source>появилась в сети</source>
-          <target state="translated">is online</target>
-        </trans-unit>
-        <trans-unit id="friend_online2" translate="yes" xml:space="preserve">
-          <source>появился в сети</source>
-          <target state="translated">is online</target>
         </trans-unit>
         <trans-unit id="friend_typing" translate="yes" xml:space="preserve">
           <source>пишет вам сообщение</source>
@@ -1095,12 +1079,8 @@
           <target state="translated" state-qualifier="mt-suggestion">New friends:</target>
         </trans-unit>
         <trans-unit id="LastActyvity1" translate="yes" xml:space="preserve">
-          <source>Заходила</source>
+          <source>Заходил;Заходила;Заходил</source>
           <target state="translated">Visited</target>
-        </trans-unit>
-        <trans-unit id="LastActyvity2" translate="yes" xml:space="preserve">
-          <source>Заходил</source>
-          <target state="translated" state-qualifier="mt-suggestion">Visited</target>
         </trans-unit>
         <trans-unit id="today" translate="yes" xml:space="preserve">
           <source>сегодня</source>
@@ -1163,7 +1143,7 @@
           <target state="translated">I would like to thank the following people for translating MicroVK:</target>
         </trans-unit>
         <trans-unit id="TranslateTopic" translate="yes" xml:space="preserve">
-          <source>Пожалуйста, ознакомтесь с [url=https://vk.com/topic-35726826_31175546]обсуждением[/url], если хотите перевести MicroVK на свой язык.</source>
+          <source>Пожалуйста, ознакомьтесь с [url=https://vk.com/topic-35726826_31175546]обсуждением[/url], если хотите перевести MicroVK на свой язык.</source>
           <target state="translated">Please read the [url=https://vk.com/topic-35726826_31175546] discussion [/url] If you want to translate MicroVK to your language.</target>
         </trans-unit>
         <trans-unit id="VersionError" translate="yes" xml:space="preserve">
@@ -1221,14 +1201,6 @@
         <trans-unit id="Game" translate="yes" xml:space="preserve">
           <source>Игра</source>
           <target state="translated" state-qualifier="tm-suggestion">Game</target>
-        </trans-unit>
-        <trans-unit id="GameLabel1" translate="yes" xml:space="preserve">
-          <source>Собрал {0} и набрал: {1}</source>
-          <target state="translated">Collected {0}  and gathered: {1}</target>
-        </trans-unit>
-        <trans-unit id="GameLabel2" translate="yes" xml:space="preserve">
-          <source>Собралa {0} и набралa: {1}</source>
-          <target state="translated">Collected {0}  and gathered: {1}</target>
         </trans-unit>
         <trans-unit id="Game3" translate="yes" xml:space="preserve">
           <source>Запись будет размещена на вашей стене. Продолжить?</source>
@@ -1313,6 +1285,38 @@
         <trans-unit id="reply" translate="yes" xml:space="preserve">
           <source>Ответить</source>
           <target state="translated">Reply</target>
+        </trans-unit>
+        <trans-unit id="Favorites" translate="yes" xml:space="preserve">
+          <source>Избранные</source>
+          <target state="new">Избранные</target>
+        </trans-unit>
+        <trans-unit id="notification_center_tips_1" translate="yes" xml:space="preserve">
+          <source>Здесь будут отображаться Ваши уведомления за текущий сеанс</source>
+          <target state="new">Здесь будут отображаться Ваши уведомления за текущий сеанс</target>
+        </trans-unit>
+        <trans-unit id="File" translate="yes" xml:space="preserve">
+          <source>Файл</source>
+          <target state="new">Файл</target>
+        </trans-unit>
+        <trans-unit id="microvk_downloader" translate="yes" xml:space="preserve">
+          <source>Загрузчик MicroVK</source>
+          <target state="new">Загрузчик MicroVK</target>
+        </trans-unit>
+        <trans-unit id="microvk_downloader_tips1" translate="yes" xml:space="preserve">
+          <source>Закрыть окно по завершению закачек</source>
+          <target state="new">Закрыть окно по завершению закачек</target>
+        </trans-unit>
+        <trans-unit id="MicroVKGroupJoin" translate="yes" xml:space="preserve">
+          <source>Подпишитесь на [url=http://vk.com/microvk/]нашу[/url] страницу в Вконтакте, дабы ничего не пропустить</source>
+          <target state="new">Подпишитесь на [url=http://vk.com/microvk/]нашу[/url] страницу в Вконтакте, дабы ничего не пропустить</target>
+        </trans-unit>
+        <trans-unit id="Join" translate="yes" xml:space="preserve">
+          <source>Подписаться</source>
+          <target state="new">Подписаться</target>
+        </trans-unit>
+        <trans-unit id="GameLabel" translate="yes" xml:space="preserve">
+          <source>Собрал {0} и набрал: {1};Собрала {0} и набрала: {1};Собрал {0} и набрал: {1}</source>
+          <target state="translated">Collected {0}  and gathered: {1}</target>
         </trans-unit>
       </group>
     </body>

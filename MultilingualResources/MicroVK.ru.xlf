@@ -779,8 +779,9 @@
           <target state="translated">Неверный ключ доступа</target>
         </trans-unit>
         <trans-unit id="BrowserLoginTips" translate="yes" xml:space="preserve">
-          <source>Разрешите доступ и скопируйте ссылку из адресной строки своего браузера. Ссылка вида</source>
-          <target state="translated">Разрешите доступ и скопируйте ссылку из адресной строки своего браузера. Ссылка вида</target>
+          <source>Разрешите доступ и скопируйте ссылку из адресной строки своего браузера. Ссылка вида - https://oauth.vk.com/blank.html#access_token=*****</source>
+          <target state="needs-review-translation">Разрешите доступ и скопируйте ссылку из адресной строки своего браузера. Ссылка вида</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="BrowserLoginTips2" translate="yes" xml:space="preserve">
           <source>Введите полученную ссылку</source>
@@ -815,28 +816,14 @@
           <target state="translated">Маленький</target>
         </trans-unit>
         <trans-unit id="friend_offline" translate="yes" xml:space="preserve">
-          <source>друг вышел из сети</source>
-          <target state="translated">друг вышел из сети</target>
-        </trans-unit>
-        <trans-unit id="friend_offline1" translate="yes" xml:space="preserve">
-          <source>вышла из сети</source>
-          <target state="translated">вышла из сети</target>
-        </trans-unit>
-        <trans-unit id="friend_offline2" translate="yes" xml:space="preserve">
-          <source>вышел из сети</source>
-          <target state="translated">вышел из сети</target>
+          <source>друг вышел из сети;вышла из сети;вышел из сети</source>
+          <target state="needs-review-translation">друг вышел из сети</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="friend_online" translate="yes" xml:space="preserve">
-          <source>друг появился в сети</source>
-          <target state="translated">друг появился в сети</target>
-        </trans-unit>
-        <trans-unit id="friend_online1" translate="yes" xml:space="preserve">
-          <source>появилась в сети</source>
-          <target state="translated">появилась в сети</target>
-        </trans-unit>
-        <trans-unit id="friend_online2" translate="yes" xml:space="preserve">
-          <source>появился в сети</source>
-          <target state="translated">появился в сети</target>
+          <source>друг появился в сети;появилась в сети;появился в сети</source>
+          <target state="needs-review-translation">друг появился в сети</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="friend_typing" translate="yes" xml:space="preserve">
           <source>пишет вам сообщение</source>
@@ -1091,12 +1078,9 @@
           <target state="translated">Новых друзей:</target>
         </trans-unit>
         <trans-unit id="LastActyvity1" translate="yes" xml:space="preserve">
-          <source>Заходила</source>
-          <target state="translated">Заходила</target>
-        </trans-unit>
-        <trans-unit id="LastActyvity2" translate="yes" xml:space="preserve">
-          <source>Заходил</source>
-          <target state="translated">Заходил</target>
+          <source>Заходил;Заходила;Заходил</source>
+          <target state="needs-review-translation">Заходила</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="today" translate="yes" xml:space="preserve">
           <source>сегодня</source>
@@ -1159,8 +1143,9 @@
           <target state="translated">Хотелось бы поблагодарить следующих людей, вызвавшихся перевести MicroVK:</target>
         </trans-unit>
         <trans-unit id="TranslateTopic" translate="yes" xml:space="preserve">
-          <source>Пожалуйста, ознакомтесь с [url=https://vk.com/topic-35726826_31175546]обсуждением[/url], если хотите перевести MicroVK на свой язык.</source>
-          <target state="translated">Пожалуйста, ознакомтесь с [url=https://vk.com/topic-35726826_31175546]обсуждением[/url], если хотите перевести MicroVK на свой язык.</target>
+          <source>Пожалуйста, ознакомьтесь с [url=https://vk.com/topic-35726826_31175546]обсуждением[/url], если хотите перевести MicroVK на свой язык.</source>
+          <target state="needs-review-translation">Пожалуйста, ознакомьтесь с [url=https://vk.com/topic-35726826_31175546]обсуждением[/url], если хотите перевести MicroVK на свой язык.</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="VersionError" translate="yes" xml:space="preserve">
           <source>Сведения о версии и обновлениях недоступны, пожалуйста убедитесь что программа правильно установлена.</source>
@@ -1217,14 +1202,6 @@
         <trans-unit id="Game" translate="yes" xml:space="preserve">
           <source>Игра</source>
           <target state="translated">Игра</target>
-        </trans-unit>
-        <trans-unit id="GameLabel1" translate="yes" xml:space="preserve">
-          <source>Собрал {0} и набрал: {1}</source>
-          <target state="translated">Собрал {0} и набрал: {1}</target>
-        </trans-unit>
-        <trans-unit id="GameLabel2" translate="yes" xml:space="preserve">
-          <source>Собралa {0} и набралa: {1}</source>
-          <target state="translated">Собралa {0} и набралa: {1}</target>
         </trans-unit>
         <trans-unit id="Share" translate="yes" xml:space="preserve">
           <source>Поделиться</source>
@@ -1313,6 +1290,38 @@
         <trans-unit id="reply" translate="yes" xml:space="preserve">
           <source>Ответить</source>
           <target state="new">Ответить</target>
+        </trans-unit>
+        <trans-unit id="Favorites" translate="yes" xml:space="preserve">
+          <source>Избранные</source>
+          <target state="new">Избранные</target>
+        </trans-unit>
+        <trans-unit id="notification_center_tips_1" translate="yes" xml:space="preserve">
+          <source>Здесь будут отображаться Ваши уведомления за текущий сеанс</source>
+          <target state="new">Здесь будут отображаться Ваши уведомления за текущий сеанс</target>
+        </trans-unit>
+        <trans-unit id="File" translate="yes" xml:space="preserve">
+          <source>Файл</source>
+          <target state="new">Файл</target>
+        </trans-unit>
+        <trans-unit id="microvk_downloader" translate="yes" xml:space="preserve">
+          <source>Загрузчик MicroVK</source>
+          <target state="new">Загрузчик MicroVK</target>
+        </trans-unit>
+        <trans-unit id="microvk_downloader_tips1" translate="yes" xml:space="preserve">
+          <source>Закрыть окно по завершению закачек</source>
+          <target state="new">Закрыть окно по завершению закачек</target>
+        </trans-unit>
+        <trans-unit id="MicroVKGroupJoin" translate="yes" xml:space="preserve">
+          <source>Подпишитесь на [url=http://vk.com/microvk/]нашу[/url] страницу в Вконтакте, дабы ничего не пропустить</source>
+          <target state="new">Подпишитесь на [url=http://vk.com/microvk/]нашу[/url] страницу в Вконтакте, дабы ничего не пропустить</target>
+        </trans-unit>
+        <trans-unit id="Join" translate="yes" xml:space="preserve">
+          <source>Подписаться</source>
+          <target state="new">Подписаться</target>
+        </trans-unit>
+        <trans-unit id="GameLabel" translate="yes" xml:space="preserve">
+          <source>Собрал {0} и набрал: {1};Собрала {0} и набрала: {1};Собрал {0} и набрал: {1}</source>
+          <target state="new">Собрал {0} и набрал: {1};Собрала {0} и набрала: {1};Собрал {0} и набрал: {1}</target>
         </trans-unit>
       </group>
     </body>
