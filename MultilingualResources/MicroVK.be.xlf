@@ -212,8 +212,7 @@
         </trans-unit>
         <trans-unit id="About_Me" translate="yes" xml:space="preserve">
           <source>О себе</source>
-          <target state="needs-review-translation">Пра сябе</target>
-          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+          <target state="translated">Пра сябе</target>
         </trans-unit>
         <trans-unit id="activities" translate="yes" xml:space="preserve">
           <source>Деятельность</source>
@@ -633,8 +632,7 @@
         </trans-unit>
         <trans-unit id="AboutProgramm" translate="yes" xml:space="preserve">
           <source>О программе</source>
-          <target state="needs-review-translation">Аб праграме</target>
-          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+          <target state="translated">Аб праграме</target>
         </trans-unit>
         <trans-unit id="addToYourAudio" translate="yes" xml:space="preserve">
           <source>Добавлено в Ваши аудиозаписи</source>
@@ -782,8 +780,7 @@
         </trans-unit>
         <trans-unit id="BrowserLoginTips" translate="yes" xml:space="preserve">
           <source>Разрешите доступ и скопируйте ссылку из адресной строки своего браузера. Ссылка вида - https://oauth.vk.com/blank.html#access_token=*****</source>
-          <target state="needs-review-translation">Дазвольце доступ і зкапіруйце спасылку з адаснай стракі свайго браўзэра. Спасылка віду - https://oauth.vk.com/blank.html#access_token=*****</target>
-          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+          <target state="translated">Дазвольце доступ і зкапіруйце спасылку з адаснай стракі свайго браўзэра. Спасылка віду - https://oauth.vk.com/blank.html#access_token=*****</target>
         </trans-unit>
         <trans-unit id="BrowserLoginTips2" translate="yes" xml:space="preserve">
           <source>Введите полученную ссылку</source>
@@ -819,13 +816,11 @@
         </trans-unit>
         <trans-unit id="friend_offline" translate="yes" xml:space="preserve">
           <source>друг вышел из сети;вышла из сети;вышел из сети</source>
-          <target state="needs-review-translation">выйшаў з сайта</target>
-          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+          <target state="translated">выйшаў з сайта;выйшла з сайта;выйшаў з сайта</target>
         </trans-unit>
         <trans-unit id="friend_online" translate="yes" xml:space="preserve">
           <source>друг появился в сети;появилась в сети;появился в сети</source>
-          <target state="needs-review-translation">зайшоў на сайт</target>
-          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+          <target state="translated">зайшоў на сайт;зайшла на сайт;зайшоў на сайт</target>
         </trans-unit>
         <trans-unit id="friend_typing" translate="yes" xml:space="preserve">
           <source>пишет вам сообщение</source>
@@ -1074,8 +1069,7 @@
         </trans-unit>
         <trans-unit id="need_restart" translate="yes" xml:space="preserve">
           <source>Применить (потребуется перезапуск)</source>
-          <target state="needs-review-translation">Будзе патрэбна перазапусціць праграму для прымянення налад</target>
-          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+          <target state="translated">Будзе патрэбна перазапусціць праграму для прымянення налад</target>
         </trans-unit>
         <trans-unit id="New_friends" translate="yes" xml:space="preserve">
           <source>Новых друзей:</source>
@@ -1083,8 +1077,7 @@
         </trans-unit>
         <trans-unit id="LastActyvity1" translate="yes" xml:space="preserve">
           <source>Заходил;Заходила;Заходил</source>
-          <target state="needs-review-translation">Заходзіла</target>
-          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+          <target state="translated">Захадзіў;Заходзіла;Захадзіў</target>
         </trans-unit>
         <trans-unit id="today" translate="yes" xml:space="preserve">
           <source>сегодня</source>
@@ -1306,14 +1299,6 @@
           <source>Файл</source>
           <target state="new">Файл</target>
         </trans-unit>
-        <trans-unit id="microvk_downloader" translate="yes" xml:space="preserve">
-          <source>Загрузчик MicroVK</source>
-          <target state="new">Загрузчик MicroVK</target>
-        </trans-unit>
-        <trans-unit id="microvk_downloader_tips1" translate="yes" xml:space="preserve">
-          <source>Закрыть окно по завершению закачек</source>
-          <target state="new">Закрыть окно по завершению закачек</target>
-        </trans-unit>
         <trans-unit id="MicroVKGroupJoin" translate="yes" xml:space="preserve">
           <source>Подпишитесь на [url=http://vk.com/microvk/]нашу[/url] страницу в Вконтакте, дабы ничего не пропустить</source>
           <target state="new">Подпишитесь на [url=http://vk.com/microvk/]нашу[/url] страницу в Вконтакте, дабы ничего не пропустить</target>
@@ -1325,6 +1310,82 @@
         <trans-unit id="GameLabel" translate="yes" xml:space="preserve">
           <source>Собрал {0} и набрал: {1};Собрала {0} и набрала: {1};Собрал {0} и набрал: {1}</source>
           <target state="new">Собрал {0} и набрал: {1};Собрала {0} и набрала: {1};Собрал {0} и набрал: {1}</target>
+        </trans-unit>
+        <trans-unit id="Equalizer" translate="yes" xml:space="preserve">
+          <source>Эквалайзер</source>
+          <target state="new">Эквалайзер</target>
+        </trans-unit>
+        <trans-unit id="Equalizer_on" translate="yes" xml:space="preserve">
+          <source>Включить эквалайзер</source>
+          <target state="new">Включить эквалайзер</target>
+        </trans-unit>
+        <trans-unit id="bass_echo" translate="yes" xml:space="preserve">
+          <source>Эхо</source>
+          <target state="new">Эхо</target>
+        </trans-unit>
+        <trans-unit id="bass_DoubleKick" translate="yes" xml:space="preserve">
+          <source>Двойной удар</source>
+          <target state="new">Двойной удар</target>
+        </trans-unit>
+        <trans-unit id="bass_LongEcho" translate="yes" xml:space="preserve">
+          <source>Длинное эхо</source>
+          <target state="new">Длинное эхо</target>
+        </trans-unit>
+        <trans-unit id="bass_SmallEcho" translate="yes" xml:space="preserve">
+          <source>Маленькое эхо</source>
+          <target state="new">Маленькое эхо</target>
+        </trans-unit>
+        <trans-unit id="bass_Delay" translate="yes" xml:space="preserve">
+          <source>Задержка:</source>
+          <target state="new">Задержка:</target>
+        </trans-unit>
+        <trans-unit id="bass_Dry" translate="yes" xml:space="preserve">
+          <source>Сухость:</source>
+          <target state="new">Сухость:</target>
+        </trans-unit>
+        <trans-unit id="bass_Wet" translate="yes" xml:space="preserve">
+          <source>Влажность:</source>
+          <target state="new">Влажность:</target>
+        </trans-unit>
+        <trans-unit id="bass_distortion" translate="yes" xml:space="preserve">
+          <source>Искажение</source>
+          <target state="new">Искажение</target>
+        </trans-unit>
+        <trans-unit id="bass_Distortion_drive" translate="yes" xml:space="preserve">
+          <source>Искажение привода:</source>
+          <target state="new">Искажение привода:</target>
+        </trans-unit>
+        <trans-unit id="bass_Feedback" translate="yes" xml:space="preserve">
+          <source>Обратная связь:</source>
+          <target state="new">Обратная связь:</target>
+        </trans-unit>
+        <trans-unit id="bass_Volume" translate="yes" xml:space="preserve">
+          <source>Громкость:</source>
+          <target state="new">Громкость:</target>
+        </trans-unit>
+        <trans-unit id="bass_Hard" translate="yes" xml:space="preserve">
+          <source>Жестко</source>
+          <target state="new">Жестко</target>
+        </trans-unit>
+        <trans-unit id="bass_Medium" translate="yes" xml:space="preserve">
+          <source>Среднее</source>
+          <target state="new">Среднее</target>
+        </trans-unit>
+        <trans-unit id="bass_veryHard" translate="yes" xml:space="preserve">
+          <source>Очень жестко</source>
+          <target state="new">Очень жестко</target>
+        </trans-unit>
+        <trans-unit id="ReSend" translate="yes" xml:space="preserve">
+          <source>Отправить повторно</source>
+          <target state="new">Отправить повторно</target>
+        </trans-unit>
+        <trans-unit id="delivered" translate="yes" xml:space="preserve">
+          <source>Доставлено</source>
+          <target state="new">Доставлено</target>
+        </trans-unit>
+        <trans-unit id="error_send" translate="yes" xml:space="preserve">
+          <source>Сбой отправки</source>
+          <target state="new">Сбой отправки</target>
         </trans-unit>
       </group>
     </body>

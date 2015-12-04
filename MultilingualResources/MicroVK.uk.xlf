@@ -1293,23 +1293,15 @@
         </trans-unit>
         <trans-unit id="Favorites" translate="yes" xml:space="preserve">
           <source>Избранные</source>
-          <target state="new">Избранные</target>
+          <target state="translated">Вибрані</target>
         </trans-unit>
         <trans-unit id="notification_center_tips_1" translate="yes" xml:space="preserve">
           <source>Здесь будут отображаться Ваши уведомления за текущий сеанс</source>
-          <target state="new">Здесь будут отображаться Ваши уведомления за текущий сеанс</target>
+          <target state="translated">Тут будуть відображатися Ваші сповіщення за поточний сеанс</target>
         </trans-unit>
         <trans-unit id="File" translate="yes" xml:space="preserve">
           <source>Файл</source>
           <target state="translated">Файл</target>
-        </trans-unit>
-        <trans-unit id="microvk_downloader" translate="yes" xml:space="preserve">
-          <source>Загрузчик MicroVK</source>
-          <target state="new">Загрузчик MicroVK</target>
-        </trans-unit>
-        <trans-unit id="microvk_downloader_tips1" translate="yes" xml:space="preserve">
-          <source>Закрыть окно по завершению закачек</source>
-          <target state="new">Закрыть окно по завершению закачек</target>
         </trans-unit>
         <trans-unit id="MicroVKGroupJoin" translate="yes" xml:space="preserve">
           <source>Подпишитесь на [url=http://vk.com/microvk/]нашу[/url] страницу в Вконтакте, дабы ничего не пропустить</source>
@@ -1317,11 +1309,87 @@
         </trans-unit>
         <trans-unit id="Join" translate="yes" xml:space="preserve">
           <source>Подписаться</source>
-          <target state="new">Подписаться</target>
+          <target state="translated">Підписатися</target>
         </trans-unit>
         <trans-unit id="GameLabel" translate="yes" xml:space="preserve">
           <source>Собрал {0} и набрал: {1};Собрала {0} и набрала: {1};Собрал {0} и набрал: {1}</source>
           <target state="new">Собрал {0} и набрал: {1};Собрала {0} и набрала: {1};Собрал {0} и набрал: {1}</target>
+        </trans-unit>
+        <trans-unit id="Equalizer" translate="yes" xml:space="preserve">
+          <source>Эквалайзер</source>
+          <target state="translated">Еквалайзер</target>
+        </trans-unit>
+        <trans-unit id="Equalizer_on" translate="yes" xml:space="preserve">
+          <source>Включить эквалайзер</source>
+          <target state="translated">Увімкнути еквалайзер</target>
+        </trans-unit>
+        <trans-unit id="bass_echo" translate="yes" xml:space="preserve">
+          <source>Эхо</source>
+          <target state="translated">Ехо</target>
+        </trans-unit>
+        <trans-unit id="bass_DoubleKick" translate="yes" xml:space="preserve">
+          <source>Двойной удар</source>
+          <target state="translated">Подвійний удар</target>
+        </trans-unit>
+        <trans-unit id="bass_LongEcho" translate="yes" xml:space="preserve">
+          <source>Длинное эхо</source>
+          <target state="translated">Довге ехо</target>
+        </trans-unit>
+        <trans-unit id="bass_SmallEcho" translate="yes" xml:space="preserve">
+          <source>Маленькое эхо</source>
+          <target state="translated">Мале ехо</target>
+        </trans-unit>
+        <trans-unit id="bass_Delay" translate="yes" xml:space="preserve">
+          <source>Задержка:</source>
+          <target state="translated">Затримка:</target>
+        </trans-unit>
+        <trans-unit id="bass_Dry" translate="yes" xml:space="preserve">
+          <source>Сухость:</source>
+          <target state="translated">Сухість:</target>
+        </trans-unit>
+        <trans-unit id="bass_Wet" translate="yes" xml:space="preserve">
+          <source>Влажность:</source>
+          <target state="translated">Вологість:</target>
+        </trans-unit>
+        <trans-unit id="bass_distortion" translate="yes" xml:space="preserve">
+          <source>Искажение</source>
+          <target state="translated">Спотворення:</target>
+        </trans-unit>
+        <trans-unit id="bass_Distortion_drive" translate="yes" xml:space="preserve">
+          <source>Искажение привода:</source>
+          <target state="translated">Спотворення диска:</target>
+        </trans-unit>
+        <trans-unit id="bass_Feedback" translate="yes" xml:space="preserve">
+          <source>Обратная связь:</source>
+          <target state="translated">Зворотній зв'язок:</target>
+        </trans-unit>
+        <trans-unit id="bass_Volume" translate="yes" xml:space="preserve">
+          <source>Громкость:</source>
+          <target state="translated">Гучність</target>
+        </trans-unit>
+        <trans-unit id="bass_Hard" translate="yes" xml:space="preserve">
+          <source>Жестко</source>
+          <target state="translated">Жорстко</target>
+        </trans-unit>
+        <trans-unit id="bass_Medium" translate="yes" xml:space="preserve">
+          <source>Среднее</source>
+          <target state="translated">Середнє</target>
+        </trans-unit>
+        <trans-unit id="bass_veryHard" translate="yes" xml:space="preserve">
+          <source>Очень жестко</source>
+          <target state="translated">Дуже жорстко</target>
+        </trans-unit>
+        <trans-unit id="ReSend" translate="yes" xml:space="preserve">
+          <source>Отправить повторно</source>
+          <target state="translated">Повторити надсилання</target>
+        </trans-unit>
+        <trans-unit id="delivered" translate="yes" xml:space="preserve">
+          <source>Доставлено</source>
+          <target state="translated">Доставлено</target>
+        </trans-unit>
+        <trans-unit id="error_send" translate="yes" xml:space="preserve">
+          <source>Сбой отправки</source>
+          <target state="translated">Не вдалося відправити</target>
         </trans-unit>
       </group>
     </body>
