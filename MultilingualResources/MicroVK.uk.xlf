@@ -1313,7 +1313,7 @@
         </trans-unit>
         <trans-unit id="GameLabel" translate="yes" xml:space="preserve">
           <source>Собрал {0} и набрал: {1};Собрала {0} и набрала: {1};Собрал {0} и набрал: {1}</source>
-          <target state="new">Собрал {0} и набрал: {1};Собрала {0} и набрала: {1};Собрал {0} и набрал: {1}</target>
+          <target state="translated">Зібрав {0} та набрав: {1}; Зібрала {0} та набрала: {1}; Зібрав {0} та набрав</target>
         </trans-unit>
         <trans-unit id="Equalizer" translate="yes" xml:space="preserve">
           <source>Эквалайзер</source>
@@ -1390,6 +1390,104 @@
         <trans-unit id="error_send" translate="yes" xml:space="preserve">
           <source>Сбой отправки</source>
           <target state="translated">Не вдалося відправити</target>
+        </trans-unit>
+        <trans-unit id="smile_quick_input" translate="yes" xml:space="preserve">
+          <source>Отображать над полем ввода</source>
+          <target state="translated">Відображати над полем введення</target>
+        </trans-unit>
+        <trans-unit id="Utils" translate="yes" xml:space="preserve">
+          <source>Утилиты</source>
+          <target state="translated">Утиліти</target>
+        </trans-unit>
+        <trans-unit id="utils_checkLink" translate="yes" xml:space="preserve">
+          <source>Проверить ссылку</source>
+          <target state="translated">Перевірити посилання</target>
+        </trans-unit>
+        <trans-unit id="radio_be" translate="yes" xml:space="preserve">
+          <source>Беларусь</source>
+          <target state="translated">Білорусь</target>
+        </trans-unit>
+        <trans-unit id="radio_ru" translate="yes" xml:space="preserve">
+          <source>Россия</source>
+          <target state="translated">Росія</target>
+        </trans-unit>
+        <trans-unit id="radio_ua" translate="yes" xml:space="preserve">
+          <source>Украина</source>
+          <target state="translated">Україна</target>
+        </trans-unit>
+        <trans-unit id="radio_history" translate="yes" xml:space="preserve">
+          <source>Последнее</source>
+          <target state="translated">Останні</target>
+        </trans-unit>
+        <trans-unit id="DialogStyle" translate="yes" xml:space="preserve">
+          <source>Стиль диалогов</source>
+          <target state="translated">Стиль діалогів</target>
+        </trans-unit>
+        <trans-unit id="Link" translate="yes" xml:space="preserve">
+          <source>Ссылка</source>
+          <target state="translated">Посилання</target>
+        </trans-unit>
+        <trans-unit id="delete" translate="yes" xml:space="preserve">
+          <source>Удалить</source>
+          <target state="translated">Видалити</target>
+        </trans-unit>
+        <trans-unit id="dialogDelete" translate="yes" xml:space="preserve">
+          <source>Удаление диалога</source>
+          <target state="translated">Видалення діалогу</target>
+        </trans-unit>
+        <trans-unit id="dialogDeleteCount" translate="yes" xml:space="preserve">
+          <source>Сколько сообщений нужно удалить</source>
+          <target state="translated">Скільки повідомлень потрібно видалити</target>
+        </trans-unit>
+        <trans-unit id="offset" translate="yes" xml:space="preserve">
+          <source>Смещение</source>
+          <target state="translated">Зсув</target>
+        </trans-unit>
+        <trans-unit id="DialogDeleteOffset" translate="yes" xml:space="preserve">
+          <source>Начиная с какого сообщения нужно удалить переписку</source>
+          <target state="translated">Починаючи з якого повідомлення потрібно видалити переписку</target>
+        </trans-unit>
+        <trans-unit id="run_minimized" translate="yes" xml:space="preserve">
+          <source>Запускать свернутым</source>
+          <target state="translated">Запускати згорнутим</target>
+        </trans-unit>
+        <trans-unit id="microvkRecommend" translate="yes" xml:space="preserve">
+          <source>Рекомендую MicroVK - Вконтакте для Windows!
+https://vk.com/microvk</source>
+          <target state="translated">Рекомендую MicroVK - Вконтакте для Windows!
+https://vk.com/microvk</target>
+        </trans-unit>
+        <trans-unit id="microvkRecommendScreenshot" translate="yes" xml:space="preserve">
+          <source>Прикрепить скриншот</source>
+          <target state="translated">Прикріпити скріншот</target>
+        </trans-unit>
+        <trans-unit id="microvkRecommendTips" translate="yes" xml:space="preserve">
+          <source>Запись будет опубликована на вашей стене</source>
+          <target state="translated">Запис буде опубліковано на вашій стіні</target>
+        </trans-unit>
+        <trans-unit id="SpeakMessage" translate="yes" xml:space="preserve">
+          <source>Озвучивать  текст сообщения</source>
+          <target state="translated">Озвучувати текст повідомлення</target>
+        </trans-unit>
+        <trans-unit id="Speak" translate="yes" xml:space="preserve">
+          <source>Озвучивать</source>
+          <target state="translated">Озвучувати</target>
+        </trans-unit>
+        <trans-unit id="SpeakChatMessage" translate="yes" xml:space="preserve">
+          <source>Озвучивать текст сообщения из беседы</source>
+          <target state="translated">Озвучувати текст повідомлення з чатів</target>
+        </trans-unit>
+        <trans-unit id="NewMessage" translate="yes" xml:space="preserve">
+          <source>Новое сообщение</source>
+          <target state="translated">Нове повідомлення</target>
+        </trans-unit>
+        <trans-unit id="hideTabs" translate="yes" xml:space="preserve">
+          <source>Скрыть вкладки</source>
+          <target state="translated">Приховати вкладки</target>
+        </trans-unit>
+        <trans-unit id="button" translate="yes" xml:space="preserve">
+          <source>Кнопка</source>
+          <target state="translated">Кнопка</target>
         </trans-unit>
       </group>
     </body>

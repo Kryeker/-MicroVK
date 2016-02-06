@@ -1386,6 +1386,104 @@
           <source>Сбой отправки</source>
           <target state="new">Сбой отправки</target>
         </trans-unit>
+        <trans-unit id="smile_quick_input" translate="yes" xml:space="preserve">
+          <source>Отображать над полем ввода</source>
+          <target state="new">Отображать над полем ввода</target>
+        </trans-unit>
+        <trans-unit id="Utils" translate="yes" xml:space="preserve">
+          <source>Утилиты</source>
+          <target state="new">Утилиты</target>
+        </trans-unit>
+        <trans-unit id="utils_checkLink" translate="yes" xml:space="preserve">
+          <source>Проверить ссылку</source>
+          <target state="new">Проверить ссылку</target>
+        </trans-unit>
+        <trans-unit id="radio_be" translate="yes" xml:space="preserve">
+          <source>Беларусь</source>
+          <target state="new">Беларусь</target>
+        </trans-unit>
+        <trans-unit id="radio_ru" translate="yes" xml:space="preserve">
+          <source>Россия</source>
+          <target state="new">Россия</target>
+        </trans-unit>
+        <trans-unit id="radio_ua" translate="yes" xml:space="preserve">
+          <source>Украина</source>
+          <target state="new">Украина</target>
+        </trans-unit>
+        <trans-unit id="radio_history" translate="yes" xml:space="preserve">
+          <source>Последнее</source>
+          <target state="new">Последнее</target>
+        </trans-unit>
+        <trans-unit id="DialogStyle" translate="yes" xml:space="preserve">
+          <source>Стиль диалогов</source>
+          <target state="new">Стиль диалогов</target>
+        </trans-unit>
+        <trans-unit id="Link" translate="yes" xml:space="preserve">
+          <source>Ссылка</source>
+          <target state="new">Ссылка</target>
+        </trans-unit>
+        <trans-unit id="delete" translate="yes" xml:space="preserve">
+          <source>Удалить</source>
+          <target state="new">Удалить</target>
+        </trans-unit>
+        <trans-unit id="dialogDelete" translate="yes" xml:space="preserve">
+          <source>Удаление диалога</source>
+          <target state="new">Удаление диалога</target>
+        </trans-unit>
+        <trans-unit id="dialogDeleteCount" translate="yes" xml:space="preserve">
+          <source>Сколько сообщений нужно удалить</source>
+          <target state="new">Сколько сообщений нужно удалить</target>
+        </trans-unit>
+        <trans-unit id="offset" translate="yes" xml:space="preserve">
+          <source>Смещение</source>
+          <target state="new">Смещение</target>
+        </trans-unit>
+        <trans-unit id="DialogDeleteOffset" translate="yes" xml:space="preserve">
+          <source>Начиная с какого сообщения нужно удалить переписку</source>
+          <target state="new">Начиная с какого сообщения нужно удалить переписку</target>
+        </trans-unit>
+        <trans-unit id="run_minimized" translate="yes" xml:space="preserve">
+          <source>Запускать свернутым</source>
+          <target state="new">Запускать свернутым</target>
+        </trans-unit>
+        <trans-unit id="microvkRecommend" translate="yes" xml:space="preserve">
+          <source>Рекомендую MicroVK - Вконтакте для Windows!
+https://vk.com/microvk</source>
+          <target state="new">Рекомендую MicroVK - Вконтакте для Windows!
+https://vk.com/microvk</target>
+        </trans-unit>
+        <trans-unit id="microvkRecommendScreenshot" translate="yes" xml:space="preserve">
+          <source>Прикрепить скриншот</source>
+          <target state="new">Прикрепить скриншот</target>
+        </trans-unit>
+        <trans-unit id="microvkRecommendTips" translate="yes" xml:space="preserve">
+          <source>Запись будет опубликована на вашей стене</source>
+          <target state="new">Запись будет опубликована на вашей стене</target>
+        </trans-unit>
+        <trans-unit id="SpeakMessage" translate="yes" xml:space="preserve">
+          <source>Озвучивать  текст сообщения</source>
+          <target state="new">Озвучивать  текст сообщения</target>
+        </trans-unit>
+        <trans-unit id="Speak" translate="yes" xml:space="preserve">
+          <source>Озвучивать</source>
+          <target state="new">Озвучивать</target>
+        </trans-unit>
+        <trans-unit id="SpeakChatMessage" translate="yes" xml:space="preserve">
+          <source>Озвучивать текст сообщения из беседы</source>
+          <target state="new">Озвучивать текст сообщения из беседы</target>
+        </trans-unit>
+        <trans-unit id="NewMessage" translate="yes" xml:space="preserve">
+          <source>Новое сообщение</source>
+          <target state="new">Новое сообщение</target>
+        </trans-unit>
+        <trans-unit id="hideTabs" translate="yes" xml:space="preserve">
+          <source>Скрыть вкладки</source>
+          <target state="new">Скрыть вкладки</target>
+        </trans-unit>
+        <trans-unit id="button" translate="yes" xml:space="preserve">
+          <source>Кнопка</source>
+          <target state="new">Кнопка</target>
+        </trans-unit>
       </group>
     </body>
   </file>
