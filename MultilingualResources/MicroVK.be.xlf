@@ -1485,6 +1485,30 @@ https://vk.com/microvk</target>
           <source>Кнопка</source>
           <target state="needs-review-translation" state-qualifier="tm-suggestion">Кнопка</target>
         </trans-unit>
+        <trans-unit id="big" translate="yes" xml:space="preserve">
+          <source>Большой</source>
+          <target state="new">Большой</target>
+        </trans-unit>
+        <trans-unit id="unpin" translate="yes" xml:space="preserve">
+          <source>Открепить</source>
+          <target state="new">Открепить</target>
+        </trans-unit>
+        <trans-unit id="bell_off" translate="yes" xml:space="preserve">
+          <source>Не беспокоить</source>
+          <target state="new">Не беспокоить</target>
+        </trans-unit>
+        <trans-unit id="bell_sleep_hour" translate="yes" xml:space="preserve">
+          <source>Не беспокоить {0} ч.</source>
+          <target state="new">Не беспокоить {0} ч.</target>
+        </trans-unit>
+        <trans-unit id="bell_sleep_minute" translate="yes" xml:space="preserve">
+          <source>Не беспокоить {0} минут</source>
+          <target state="new">Не беспокоить {0} минут</target>
+        </trans-unit>
+        <trans-unit id="SaveWindowsSize" translate="yes" xml:space="preserve">
+          <source>Запоминать размер окна при выходе</source>
+          <target state="new">Запоминать размер окна при выходе</target>
+        </trans-unit>
       </group>
     </body>
   </file>
