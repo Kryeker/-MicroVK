@@ -959,12 +959,12 @@
           <target state="translated">Позитивне</target>
         </trans-unit>
         <trans-unit id="themeDark" translate="yes" xml:space="preserve">
-          <source>Темная</source>
-          <target state="translated">Темна</target>
+          <source>Темная тема</source>
+          <target state="translated">Темна тема</target>
         </trans-unit>
         <trans-unit id="themeLight" translate="yes" xml:space="preserve">
-          <source>Светлая</source>
-          <target state="translated">Світла</target>
+          <source>Светлая тема</source>
+          <target state="translated">Світла тема</target>
         </trans-unit>
         <trans-unit id="unknown" translate="yes" xml:space="preserve">
           <source>Неизвестно</source>
@@ -1511,7 +1511,51 @@ https://vk.com/microvk</target>
         </trans-unit>
         <trans-unit id="SaveWindowsSize" translate="yes" xml:space="preserve">
           <source>Запоминать размер окна при выходе</source>
-          <target state="new">Запоминать размер окна при выходе</target>
+          <target state="translated">Запам'ятовувати розмір вікна при виході</target>
+        </trans-unit>
+        <trans-unit id="dsOut" translate="yes" xml:space="preserve">
+          <source>Входящее сообщение</source>
+          <target state="translated">Вхідне повідомлення</target>
+        </trans-unit>
+        <trans-unit id="dsNotOut" translate="yes" xml:space="preserve">
+          <source>Исходящее сообщение</source>
+          <target state="translated">Вихідне повідомлення</target>
+        </trans-unit>
+        <trans-unit id="dsAvatar" translate="yes" xml:space="preserve">
+          <source>Фото собеседника</source>
+          <target state="translated">Фото співрозмовника</target>
+        </trans-unit>
+        <trans-unit id="dsAvatarOut" translate="yes" xml:space="preserve">
+          <source>Мое фото</source>
+          <target state="translated">Моє фото</target>
+        </trans-unit>
+        <trans-unit id="dsColor" translate="yes" xml:space="preserve">
+          <source>Цвет собеседника</source>
+          <target state="translated">Колір співрозмовника</target>
+        </trans-unit>
+        <trans-unit id="dsColorOut" translate="yes" xml:space="preserve">
+          <source>Мой цвет</source>
+          <target state="translated">Мій колір</target>
+        </trans-unit>
+        <trans-unit id="dsFont" translate="yes" xml:space="preserve">
+          <source>Шрифт собеседника</source>
+          <target state="translated">Шрифт співрозмовника</target>
+        </trans-unit>
+        <trans-unit id="dsFontOut" translate="yes" xml:space="preserve">
+          <source>Мой шрифт</source>
+          <target state="translated">Мій шрифт</target>
+        </trans-unit>
+        <trans-unit id="HelpMicroVK" translate="yes" xml:space="preserve">
+          <source>Помощь проекту</source>
+          <target state="translated">Допомога проекту</target>
+        </trans-unit>
+        <trans-unit id="HelpMicroVKShare" translate="yes" xml:space="preserve">
+          <source>Расскажите о MicroVK друзьям</source>
+          <target state="translated">Розкажіть про MicroVK друзям</target>
+        </trans-unit>
+        <trans-unit id="Thanks" translate="yes" xml:space="preserve">
+          <source>Спасибо! Любой пункт важен и ускоряет дальнейшую разработку программы.</source>
+          <target state="translated">Дякую! Будь пункт важливий і прискорює подальшу розробку програми.</target>
         </trans-unit>
       </group>
     </body>

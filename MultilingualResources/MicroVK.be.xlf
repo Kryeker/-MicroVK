@@ -1048,12 +1048,14 @@
           <target state="translated">Праграма паспяхова абноўлена</target>
         </trans-unit>
         <trans-unit id="themeDark" translate="yes" xml:space="preserve">
-          <source>Темная</source>
-          <target state="translated">Цёмная</target>
+          <source>Темная тема</source>
+          <target state="needs-review-translation">Цёмная</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="themeLight" translate="yes" xml:space="preserve">
-          <source>Светлая</source>
-          <target state="translated">Светлая</target>
+          <source>Светлая тема</source>
+          <target state="needs-review-translation">Светлая</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="unknown" translate="yes" xml:space="preserve">
           <source>Неизвестно</source>
@@ -1487,15 +1489,15 @@ https://vk.com/microvk</target>
         </trans-unit>
         <trans-unit id="big" translate="yes" xml:space="preserve">
           <source>Большой</source>
-          <target state="new">Большой</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Вялікая</target>
         </trans-unit>
         <trans-unit id="unpin" translate="yes" xml:space="preserve">
           <source>Открепить</source>
-          <target state="new">Открепить</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Адмацаваць</target>
         </trans-unit>
         <trans-unit id="bell_off" translate="yes" xml:space="preserve">
           <source>Не беспокоить</source>
-          <target state="new">Не беспокоить</target>
+          <target state="needs-review-translation" state-qualifier="exact-match">Не турбаваць</target>
         </trans-unit>
         <trans-unit id="bell_sleep_hour" translate="yes" xml:space="preserve">
           <source>Не беспокоить {0} ч.</source>
@@ -1508,6 +1510,50 @@ https://vk.com/microvk</target>
         <trans-unit id="SaveWindowsSize" translate="yes" xml:space="preserve">
           <source>Запоминать размер окна при выходе</source>
           <target state="new">Запоминать размер окна при выходе</target>
+        </trans-unit>
+        <trans-unit id="dsOut" translate="yes" xml:space="preserve">
+          <source>Входящее сообщение</source>
+          <target state="new">Входящее сообщение</target>
+        </trans-unit>
+        <trans-unit id="dsNotOut" translate="yes" xml:space="preserve">
+          <source>Исходящее сообщение</source>
+          <target state="new">Исходящее сообщение</target>
+        </trans-unit>
+        <trans-unit id="dsAvatar" translate="yes" xml:space="preserve">
+          <source>Фото собеседника</source>
+          <target state="new">Фото собеседника</target>
+        </trans-unit>
+        <trans-unit id="dsAvatarOut" translate="yes" xml:space="preserve">
+          <source>Мое фото</source>
+          <target state="new">Мое фото</target>
+        </trans-unit>
+        <trans-unit id="dsColor" translate="yes" xml:space="preserve">
+          <source>Цвет собеседника</source>
+          <target state="new">Цвет собеседника</target>
+        </trans-unit>
+        <trans-unit id="dsColorOut" translate="yes" xml:space="preserve">
+          <source>Мой цвет</source>
+          <target state="new">Мой цвет</target>
+        </trans-unit>
+        <trans-unit id="dsFont" translate="yes" xml:space="preserve">
+          <source>Шрифт собеседника</source>
+          <target state="new">Шрифт собеседника</target>
+        </trans-unit>
+        <trans-unit id="dsFontOut" translate="yes" xml:space="preserve">
+          <source>Мой шрифт</source>
+          <target state="new">Мой шрифт</target>
+        </trans-unit>
+        <trans-unit id="HelpMicroVK" translate="yes" xml:space="preserve">
+          <source>Помощь проекту</source>
+          <target state="new">Помощь проекту</target>
+        </trans-unit>
+        <trans-unit id="HelpMicroVKShare" translate="yes" xml:space="preserve">
+          <source>Расскажите о MicroVK друзьям</source>
+          <target state="new">Расскажите о MicroVK друзьям</target>
+        </trans-unit>
+        <trans-unit id="Thanks" translate="yes" xml:space="preserve">
+          <source>Спасибо! Любой пункт важен и ускоряет дальнейшую разработку программы.</source>
+          <target state="new">Спасибо! Любой пункт важен и ускоряет дальнейшую разработку программы.</target>
         </trans-unit>
       </group>
     </body>

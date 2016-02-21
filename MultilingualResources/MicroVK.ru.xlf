@@ -780,8 +780,7 @@
         </trans-unit>
         <trans-unit id="BrowserLoginTips" translate="yes" xml:space="preserve">
           <source>Разрешите доступ и скопируйте ссылку из адресной строки своего браузера. Ссылка вида - https://oauth.vk.com/blank.html#access_token=*****</source>
-          <target state="needs-review-translation">Разрешите доступ и скопируйте ссылку из адресной строки своего браузера. Ссылка вида</target>
-          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+          <target state="translated">Разрешите доступ и скопируйте ссылку из адресной строки своего браузера. Ссылка вида - https://oauth.vk.com/blank.html#access_token=*****</target>
         </trans-unit>
         <trans-unit id="BrowserLoginTips2" translate="yes" xml:space="preserve">
           <source>Введите полученную ссылку</source>
@@ -817,13 +816,11 @@
         </trans-unit>
         <trans-unit id="friend_offline" translate="yes" xml:space="preserve">
           <source>друг вышел из сети;вышла из сети;вышел из сети</source>
-          <target state="needs-review-translation">друг вышел из сети</target>
-          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+          <target state="translated">друг вышел из сети;вышла из сети;вышел из сети</target>
         </trans-unit>
         <trans-unit id="friend_online" translate="yes" xml:space="preserve">
           <source>друг появился в сети;появилась в сети;появился в сети</source>
-          <target state="needs-review-translation">друг появился в сети</target>
-          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+          <target state="translated">друг появился в сети;появилась в сети;появился в сети</target>
         </trans-unit>
         <trans-unit id="friend_typing" translate="yes" xml:space="preserve">
           <source>пишет вам сообщение</source>
@@ -1050,12 +1047,12 @@
           <target state="translated">Программа успешно обновлена</target>
         </trans-unit>
         <trans-unit id="themeDark" translate="yes" xml:space="preserve">
-          <source>Темная</source>
-          <target state="translated">Темная</target>
+          <source>Темная тема</source>
+          <target state="translated">Темная тема</target>
         </trans-unit>
         <trans-unit id="themeLight" translate="yes" xml:space="preserve">
-          <source>Светлая</source>
-          <target state="translated">Светлая</target>
+          <source>Светлая тема</source>
+          <target state="translated">Светлая тема</target>
         </trans-unit>
         <trans-unit id="unknown" translate="yes" xml:space="preserve">
           <source>Неизвестно</source>
@@ -1079,8 +1076,7 @@
         </trans-unit>
         <trans-unit id="LastActyvity1" translate="yes" xml:space="preserve">
           <source>Заходил;Заходила;Заходил</source>
-          <target state="needs-review-translation">Заходила</target>
-          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+          <target state="translated">Заходил;Заходила;Заходил</target>
         </trans-unit>
         <trans-unit id="today" translate="yes" xml:space="preserve">
           <source>сегодня</source>
@@ -1144,8 +1140,7 @@
         </trans-unit>
         <trans-unit id="TranslateTopic" translate="yes" xml:space="preserve">
           <source>Пожалуйста, ознакомьтесь с [url=https://vk.com/topic-35726826_31175546]обсуждением[/url], если хотите перевести MicroVK на свой язык.</source>
-          <target state="needs-review-translation">Пожалуйста, ознакомьтесь с [url=https://vk.com/topic-35726826_31175546]обсуждением[/url], если хотите перевести MicroVK на свой язык.</target>
-          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+          <target state="translated">Пожалуйста, ознакомьтесь с [url=https://vk.com/topic-35726826_31175546]обсуждением[/url], если хотите перевести MicroVK на свой язык.</target>
         </trans-unit>
         <trans-unit id="VersionError" translate="yes" xml:space="preserve">
           <source>Сведения о версии и обновлениях недоступны, пожалуйста убедитесь что программа правильно установлена.</source>
@@ -1289,229 +1284,273 @@
         </trans-unit>
         <trans-unit id="reply" translate="yes" xml:space="preserve">
           <source>Ответить</source>
-          <target state="new">Ответить</target>
+          <target state="translated">Ответить</target>
         </trans-unit>
         <trans-unit id="Favorites" translate="yes" xml:space="preserve">
           <source>Избранные</source>
-          <target state="new">Избранные</target>
+          <target state="translated">Избранные</target>
         </trans-unit>
         <trans-unit id="notification_center_tips_1" translate="yes" xml:space="preserve">
           <source>Здесь будут отображаться Ваши уведомления за текущий сеанс</source>
-          <target state="new">Здесь будут отображаться Ваши уведомления за текущий сеанс</target>
+          <target state="translated">Здесь будут отображаться Ваши уведомления за текущий сеанс</target>
         </trans-unit>
         <trans-unit id="File" translate="yes" xml:space="preserve">
           <source>Файл</source>
-          <target state="new">Файл</target>
+          <target state="translated">Файл</target>
         </trans-unit>
         <trans-unit id="MicroVKGroupJoin" translate="yes" xml:space="preserve">
           <source>Подпишитесь на [url=http://vk.com/microvk/]нашу[/url] страницу в Вконтакте, дабы ничего не пропустить</source>
-          <target state="new">Подпишитесь на [url=http://vk.com/microvk/]нашу[/url] страницу в Вконтакте, дабы ничего не пропустить</target>
+          <target state="translated">Подпишитесь на [url=http://vk.com/microvk/]нашу[/url] страницу в Вконтакте, дабы ничего не пропустить</target>
         </trans-unit>
         <trans-unit id="Join" translate="yes" xml:space="preserve">
           <source>Подписаться</source>
-          <target state="new">Подписаться</target>
+          <target state="translated">Подписаться</target>
         </trans-unit>
         <trans-unit id="GameLabel" translate="yes" xml:space="preserve">
           <source>Собрал {0} и набрал: {1};Собрала {0} и набрала: {1};Собрал {0} и набрал: {1}</source>
-          <target state="new">Собрал {0} и набрал: {1};Собрала {0} и набрала: {1};Собрал {0} и набрал: {1}</target>
+          <target state="translated">Собрал {0} и набрал: {1};Собрала {0} и набрала: {1};Собрал {0} и набрал: {1}</target>
         </trans-unit>
         <trans-unit id="Equalizer" translate="yes" xml:space="preserve">
           <source>Эквалайзер</source>
-          <target state="new">Эквалайзер</target>
+          <target state="translated">Эквалайзер</target>
         </trans-unit>
         <trans-unit id="Equalizer_on" translate="yes" xml:space="preserve">
           <source>Включить эквалайзер</source>
-          <target state="new">Включить эквалайзер</target>
+          <target state="translated">Включить эквалайзер</target>
         </trans-unit>
         <trans-unit id="bass_echo" translate="yes" xml:space="preserve">
           <source>Эхо</source>
-          <target state="new">Эхо</target>
+          <target state="translated">Эхо</target>
         </trans-unit>
         <trans-unit id="bass_DoubleKick" translate="yes" xml:space="preserve">
           <source>Двойной удар</source>
-          <target state="new">Двойной удар</target>
+          <target state="translated">Двойной удар</target>
         </trans-unit>
         <trans-unit id="bass_LongEcho" translate="yes" xml:space="preserve">
           <source>Длинное эхо</source>
-          <target state="new">Длинное эхо</target>
+          <target state="translated">Длинное эхо</target>
         </trans-unit>
         <trans-unit id="bass_SmallEcho" translate="yes" xml:space="preserve">
           <source>Маленькое эхо</source>
-          <target state="new">Маленькое эхо</target>
+          <target state="translated">Маленькое эхо</target>
         </trans-unit>
         <trans-unit id="bass_Delay" translate="yes" xml:space="preserve">
           <source>Задержка:</source>
-          <target state="new">Задержка:</target>
+          <target state="translated">Задержка:</target>
         </trans-unit>
         <trans-unit id="bass_Dry" translate="yes" xml:space="preserve">
           <source>Сухость:</source>
-          <target state="new">Сухость:</target>
+          <target state="translated">Сухость:</target>
         </trans-unit>
         <trans-unit id="bass_Wet" translate="yes" xml:space="preserve">
           <source>Влажность:</source>
-          <target state="new">Влажность:</target>
+          <target state="translated">Влажность:</target>
         </trans-unit>
         <trans-unit id="bass_distortion" translate="yes" xml:space="preserve">
           <source>Искажение</source>
-          <target state="new">Искажение</target>
+          <target state="translated">Искажение</target>
         </trans-unit>
         <trans-unit id="bass_Distortion_drive" translate="yes" xml:space="preserve">
           <source>Искажение привода:</source>
-          <target state="new">Искажение привода:</target>
+          <target state="translated">Искажение привода:</target>
         </trans-unit>
         <trans-unit id="bass_Feedback" translate="yes" xml:space="preserve">
           <source>Обратная связь:</source>
-          <target state="new">Обратная связь:</target>
+          <target state="translated">Обратная связь:</target>
         </trans-unit>
         <trans-unit id="bass_Volume" translate="yes" xml:space="preserve">
           <source>Громкость:</source>
-          <target state="new">Громкость:</target>
+          <target state="translated">Громкость:</target>
         </trans-unit>
         <trans-unit id="bass_Hard" translate="yes" xml:space="preserve">
           <source>Жестко</source>
-          <target state="new">Жестко</target>
+          <target state="translated">Жестко</target>
         </trans-unit>
         <trans-unit id="bass_Medium" translate="yes" xml:space="preserve">
           <source>Среднее</source>
-          <target state="new">Среднее</target>
+          <target state="translated">Среднее</target>
         </trans-unit>
         <trans-unit id="bass_veryHard" translate="yes" xml:space="preserve">
           <source>Очень жестко</source>
-          <target state="new">Очень жестко</target>
+          <target state="translated">Очень жестко</target>
         </trans-unit>
         <trans-unit id="ReSend" translate="yes" xml:space="preserve">
           <source>Отправить повторно</source>
-          <target state="new">Отправить повторно</target>
+          <target state="translated">Отправить повторно</target>
         </trans-unit>
         <trans-unit id="delivered" translate="yes" xml:space="preserve">
           <source>Доставлено</source>
-          <target state="new">Доставлено</target>
+          <target state="translated">Доставлено</target>
         </trans-unit>
         <trans-unit id="error_send" translate="yes" xml:space="preserve">
           <source>Сбой отправки</source>
-          <target state="new">Сбой отправки</target>
+          <target state="translated">Сбой отправки</target>
         </trans-unit>
         <trans-unit id="smile_quick_input" translate="yes" xml:space="preserve">
           <source>Отображать над полем ввода</source>
-          <target state="new">Отображать над полем ввода</target>
+          <target state="translated">Отображать над полем ввода</target>
         </trans-unit>
         <trans-unit id="Utils" translate="yes" xml:space="preserve">
           <source>Утилиты</source>
-          <target state="new">Утилиты</target>
+          <target state="translated">Утилиты</target>
         </trans-unit>
         <trans-unit id="utils_checkLink" translate="yes" xml:space="preserve">
           <source>Проверить ссылку</source>
-          <target state="new">Проверить ссылку</target>
+          <target state="translated">Проверить ссылку</target>
         </trans-unit>
         <trans-unit id="radio_be" translate="yes" xml:space="preserve">
           <source>Беларусь</source>
-          <target state="new">Беларусь</target>
+          <target state="translated">Беларусь</target>
         </trans-unit>
         <trans-unit id="radio_ru" translate="yes" xml:space="preserve">
           <source>Россия</source>
-          <target state="new">Россия</target>
+          <target state="translated">Россия</target>
         </trans-unit>
         <trans-unit id="radio_ua" translate="yes" xml:space="preserve">
           <source>Украина</source>
-          <target state="new">Украина</target>
+          <target state="translated">Украина</target>
         </trans-unit>
         <trans-unit id="radio_history" translate="yes" xml:space="preserve">
           <source>Последнее</source>
-          <target state="new">Последнее</target>
+          <target state="translated">Последнее</target>
         </trans-unit>
         <trans-unit id="DialogStyle" translate="yes" xml:space="preserve">
           <source>Стиль диалогов</source>
-          <target state="new">Стиль диалогов</target>
+          <target state="translated">Стиль диалогов</target>
         </trans-unit>
         <trans-unit id="Link" translate="yes" xml:space="preserve">
           <source>Ссылка</source>
-          <target state="new">Ссылка</target>
+          <target state="translated">Ссылка</target>
         </trans-unit>
         <trans-unit id="delete" translate="yes" xml:space="preserve">
           <source>Удалить</source>
-          <target state="new">Удалить</target>
+          <target state="translated">Удалить</target>
         </trans-unit>
         <trans-unit id="dialogDelete" translate="yes" xml:space="preserve">
           <source>Удаление диалога</source>
-          <target state="new">Удаление диалога</target>
+          <target state="translated">Удаление диалога</target>
         </trans-unit>
         <trans-unit id="dialogDeleteCount" translate="yes" xml:space="preserve">
           <source>Сколько сообщений нужно удалить</source>
-          <target state="new">Сколько сообщений нужно удалить</target>
+          <target state="translated">Сколько сообщений нужно удалить</target>
         </trans-unit>
         <trans-unit id="offset" translate="yes" xml:space="preserve">
           <source>Смещение</source>
-          <target state="new">Смещение</target>
+          <target state="translated">Смещение</target>
         </trans-unit>
         <trans-unit id="DialogDeleteOffset" translate="yes" xml:space="preserve">
           <source>Начиная с какого сообщения нужно удалить переписку</source>
-          <target state="new">Начиная с какого сообщения нужно удалить переписку</target>
+          <target state="translated">Начиная с какого сообщения нужно удалить переписку</target>
         </trans-unit>
         <trans-unit id="run_minimized" translate="yes" xml:space="preserve">
           <source>Запускать свернутым</source>
-          <target state="new">Запускать свернутым</target>
+          <target state="translated">Запускать свернутым</target>
         </trans-unit>
         <trans-unit id="microvkRecommend" translate="yes" xml:space="preserve">
           <source>Рекомендую MicroVK - Вконтакте для Windows!
 https://vk.com/microvk</source>
-          <target state="new">Рекомендую MicroVK - Вконтакте для Windows!
+          <target state="translated">Рекомендую MicroVK - Вконтакте для Windows!
 https://vk.com/microvk</target>
         </trans-unit>
         <trans-unit id="microvkRecommendScreenshot" translate="yes" xml:space="preserve">
           <source>Прикрепить скриншот</source>
-          <target state="new">Прикрепить скриншот</target>
+          <target state="translated">Прикрепить скриншот</target>
         </trans-unit>
         <trans-unit id="microvkRecommendTips" translate="yes" xml:space="preserve">
           <source>Запись будет опубликована на вашей стене</source>
-          <target state="new">Запись будет опубликована на вашей стене</target>
+          <target state="translated">Запись будет опубликована на вашей стене</target>
         </trans-unit>
         <trans-unit id="SpeakMessage" translate="yes" xml:space="preserve">
           <source>Озвучивать  текст сообщения</source>
-          <target state="new">Озвучивать  текст сообщения</target>
+          <target state="translated">Озвучивать  текст сообщения</target>
         </trans-unit>
         <trans-unit id="Speak" translate="yes" xml:space="preserve">
           <source>Озвучивать</source>
-          <target state="new">Озвучивать</target>
+          <target state="translated">Озвучивать</target>
         </trans-unit>
         <trans-unit id="SpeakChatMessage" translate="yes" xml:space="preserve">
           <source>Озвучивать текст сообщения из беседы</source>
-          <target state="new">Озвучивать текст сообщения из беседы</target>
+          <target state="translated">Озвучивать текст сообщения из беседы</target>
         </trans-unit>
         <trans-unit id="NewMessage" translate="yes" xml:space="preserve">
           <source>Новое сообщение</source>
-          <target state="new">Новое сообщение</target>
+          <target state="translated">Новое сообщение</target>
         </trans-unit>
         <trans-unit id="hideTabs" translate="yes" xml:space="preserve">
           <source>Скрыть вкладки</source>
-          <target state="new">Скрыть вкладки</target>
+          <target state="translated">Скрыть вкладки</target>
         </trans-unit>
         <trans-unit id="button" translate="yes" xml:space="preserve">
           <source>Кнопка</source>
-          <target state="new">Кнопка</target>
+          <target state="translated">Кнопка</target>
         </trans-unit>
         <trans-unit id="big" translate="yes" xml:space="preserve">
           <source>Большой</source>
-          <target state="new">Большой</target>
+          <target state="translated">Большой</target>
         </trans-unit>
         <trans-unit id="unpin" translate="yes" xml:space="preserve">
           <source>Открепить</source>
-          <target state="new">Открепить</target>
+          <target state="translated">Открепить</target>
         </trans-unit>
         <trans-unit id="bell_off" translate="yes" xml:space="preserve">
           <source>Не беспокоить</source>
-          <target state="new">Не беспокоить</target>
+          <target state="translated">Не беспокоить</target>
         </trans-unit>
         <trans-unit id="bell_sleep_hour" translate="yes" xml:space="preserve">
           <source>Не беспокоить {0} ч.</source>
-          <target state="new">Не беспокоить {0} ч.</target>
+          <target state="translated">Не беспокоить {0} ч.</target>
         </trans-unit>
         <trans-unit id="bell_sleep_minute" translate="yes" xml:space="preserve">
           <source>Не беспокоить {0} минут</source>
-          <target state="new">Не беспокоить {0} минут</target>
+          <target state="translated">Не беспокоить {0} минут</target>
         </trans-unit>
         <trans-unit id="SaveWindowsSize" translate="yes" xml:space="preserve">
           <source>Запоминать размер окна при выходе</source>
-          <target state="new">Запоминать размер окна при выходе</target>
+          <target state="translated">Запоминать размер окна при выходе</target>
+        </trans-unit>
+        <trans-unit id="dsOut" translate="yes" xml:space="preserve">
+          <source>Входящее сообщение</source>
+          <target state="translated">Входящее сообщение</target>
+        </trans-unit>
+        <trans-unit id="dsNotOut" translate="yes" xml:space="preserve">
+          <source>Исходящее сообщение</source>
+          <target state="translated">Исходящее сообщение</target>
+        </trans-unit>
+        <trans-unit id="dsAvatar" translate="yes" xml:space="preserve">
+          <source>Фото собеседника</source>
+          <target state="translated">Фото собеседника</target>
+        </trans-unit>
+        <trans-unit id="dsAvatarOut" translate="yes" xml:space="preserve">
+          <source>Мое фото</source>
+          <target state="translated">Мое фото</target>
+        </trans-unit>
+        <trans-unit id="dsColor" translate="yes" xml:space="preserve">
+          <source>Цвет собеседника</source>
+          <target state="translated">Цвет собеседника</target>
+        </trans-unit>
+        <trans-unit id="dsColorOut" translate="yes" xml:space="preserve">
+          <source>Мой цвет</source>
+          <target state="translated">Мой цвет</target>
+        </trans-unit>
+        <trans-unit id="dsFont" translate="yes" xml:space="preserve">
+          <source>Шрифт собеседника</source>
+          <target state="translated">Шрифт собеседника</target>
+        </trans-unit>
+        <trans-unit id="dsFontOut" translate="yes" xml:space="preserve">
+          <source>Мой шрифт</source>
+          <target state="translated">Мой шрифт</target>
+        </trans-unit>
+        <trans-unit id="HelpMicroVK" translate="yes" xml:space="preserve">
+          <source>Помощь проекту</source>
+          <target state="translated">Помощь проекту</target>
+        </trans-unit>
+        <trans-unit id="HelpMicroVKShare" translate="yes" xml:space="preserve">
+          <source>Расскажите о MicroVK друзьям</source>
+          <target state="translated">Расскажите о MicroVK друзьям</target>
+        </trans-unit>
+        <trans-unit id="Thanks" translate="yes" xml:space="preserve">
+          <source>Спасибо! Любой пункт важен и ускоряет дальнейшую разработку программы.</source>
+          <target state="translated">Спасибо! Любой пункт важен и ускоряет дальнейшую разработку программы.</target>
         </trans-unit>
       </group>
     </body>
