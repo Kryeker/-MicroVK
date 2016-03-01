@@ -1552,6 +1552,38 @@ https://vk.com/microvk</target>
           <source>Спасибо! Любой пункт важен и ускоряет дальнейшую разработку программы.</source>
           <target state="translated">Спасибо! Любой пункт важен и ускоряет дальнейшую разработку программы.</target>
         </trans-unit>
+        <trans-unit id="SpellCheckError" translate="yes" xml:space="preserve">
+          <source>Не удалось включить проверку правописания. [url=https://vk.com/topic-35726826_33239193]Подробнее.[/url]</source>
+          <target state="translated">Не удалось включить проверку правописания. [url=https://vk.com/topic-35726826_33239193]Подробнее.[/url]</target>
+        </trans-unit>
+        <trans-unit id="start" translate="yes" xml:space="preserve">
+          <source>Начать</source>
+          <target state="translated">Начать</target>
+        </trans-unit>
+        <trans-unit id="StartPageRemember" translate="yes" xml:space="preserve">
+          <source>Запомнить профиль для быстрого входа</source>
+          <target state="translated">Запомнить профиль для быстрого входа</target>
+        </trans-unit>
+        <trans-unit id="MicroVKMembers" translate="yes" xml:space="preserve">
+          <source>Нас уже: </source>
+          <target state="translated">Нас уже: </target>
+        </trans-unit>
+        <trans-unit id="AccountManager" translate="yes" xml:space="preserve">
+          <source>Учетные записи</source>
+          <target state="translated">Учетные записи</target>
+        </trans-unit>
+        <trans-unit id="Add" translate="yes" xml:space="preserve">
+          <source>Добавить</source>
+          <target state="translated">Добавить</target>
+        </trans-unit>
+        <trans-unit id="OpenInBrowser" translate="yes" xml:space="preserve">
+          <source>Открыть в браузере...</source>
+          <target state="translated">Открыть в браузере...</target>
+        </trans-unit>
+        <trans-unit id="refresh" translate="yes" xml:space="preserve">
+          <source>Обновить</source>
+          <target state="translated">Обновить</target>
+        </trans-unit>
       </group>
     </body>
   </file>

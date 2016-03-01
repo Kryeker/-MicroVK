@@ -1557,6 +1557,38 @@ https://vk.com/microvk</target>
           <source>Спасибо! Любой пункт важен и ускоряет дальнейшую разработку программы.</source>
           <target state="translated">Дякую! Будь пункт важливий і прискорює подальшу розробку програми.</target>
         </trans-unit>
+        <trans-unit id="SpellCheckError" translate="yes" xml:space="preserve">
+          <source>Не удалось включить проверку правописания. [url=https://vk.com/topic-35726826_33239193]Подробнее.[/url]</source>
+          <target state="translated">Не вдалося включити перевірку правопису. [url=https://vk.com/topic-35726826_33239193]Детальніше.[/url]</target>
+        </trans-unit>
+        <trans-unit id="start" translate="yes" xml:space="preserve">
+          <source>Начать</source>
+          <target state="translated">Розпочати</target>
+        </trans-unit>
+        <trans-unit id="StartPageRemember" translate="yes" xml:space="preserve">
+          <source>Запомнить профиль для быстрого входа</source>
+          <target state="translated">Запам'ятати профіль для швидкого входу</target>
+        </trans-unit>
+        <trans-unit id="MicroVKMembers" translate="yes" xml:space="preserve">
+          <source>Нас уже: </source>
+          <target state="translated">Нас вже:</target>
+        </trans-unit>
+        <trans-unit id="AccountManager" translate="yes" xml:space="preserve">
+          <source>Учетные записи</source>
+          <target state="translated">Облікові записи</target>
+        </trans-unit>
+        <trans-unit id="Add" translate="yes" xml:space="preserve">
+          <source>Добавить</source>
+          <target state="translated">Додати</target>
+        </trans-unit>
+        <trans-unit id="OpenInBrowser" translate="yes" xml:space="preserve">
+          <source>Открыть в браузере...</source>
+          <target state="translated">Відкрити в браузері</target>
+        </trans-unit>
+        <trans-unit id="refresh" translate="yes" xml:space="preserve">
+          <source>Обновить</source>
+          <target state="translated">Оновити</target>
+        </trans-unit>
       </group>
     </body>
   </file>

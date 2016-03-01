@@ -1555,6 +1555,38 @@ https://vk.com/microvk</target>
           <source>Спасибо! Любой пункт важен и ускоряет дальнейшую разработку программы.</source>
           <target state="new">Спасибо! Любой пункт важен и ускоряет дальнейшую разработку программы.</target>
         </trans-unit>
+        <trans-unit id="SpellCheckError" translate="yes" xml:space="preserve">
+          <source>Не удалось включить проверку правописания. [url=https://vk.com/topic-35726826_33239193]Подробнее.[/url]</source>
+          <target state="new">Не удалось включить проверку правописания. [url=https://vk.com/topic-35726826_33239193]Подробнее.[/url]</target>
+        </trans-unit>
+        <trans-unit id="start" translate="yes" xml:space="preserve">
+          <source>Начать</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Пачаць</target>
+        </trans-unit>
+        <trans-unit id="StartPageRemember" translate="yes" xml:space="preserve">
+          <source>Запомнить профиль для быстрого входа</source>
+          <target state="new">Запомнить профиль для быстрого входа</target>
+        </trans-unit>
+        <trans-unit id="MicroVKMembers" translate="yes" xml:space="preserve">
+          <source>Нас уже: </source>
+          <target state="new">Нас уже: </target>
+        </trans-unit>
+        <trans-unit id="AccountManager" translate="yes" xml:space="preserve">
+          <source>Учетные записи</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Уліковыя запісы электроннай пошты</target>
+        </trans-unit>
+        <trans-unit id="Add" translate="yes" xml:space="preserve">
+          <source>Добавить</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Дадаць</target>
+        </trans-unit>
+        <trans-unit id="OpenInBrowser" translate="yes" xml:space="preserve">
+          <source>Открыть в браузере...</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Адкрыць у браўзеры</target>
+        </trans-unit>
+        <trans-unit id="refresh" translate="yes" xml:space="preserve">
+          <source>Обновить</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Абнавіць</target>
+        </trans-unit>
       </group>
     </body>
   </file>
