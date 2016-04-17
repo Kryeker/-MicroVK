@@ -418,10 +418,6 @@
           <source>Новое сообщение</source>
           <target state="translated">Нове повідомлення</target>
         </trans-unit>
-        <trans-unit id="Notification4_1" translate="yes" xml:space="preserve">
-          <source>Новое сообщение из беседы</source>
-          <target state="translated">Нове повідомлення з бесіди</target>
-        </trans-unit>
         <trans-unit id="Notification61" translate="yes" xml:space="preserve">
           <source>Пользователь начал набирать текст в диалоге</source>
           <target state="translated">Користувач почав набирати текст в діалозі</target>
@@ -934,10 +930,6 @@
           <source>Либертарианские</source>
           <target state="translated">Лібертаріанські</target>
         </trans-unit>
-        <trans-unit id="Picture_file" translate="yes" xml:space="preserve">
-          <source>Файлы рисунков</source>
-          <target state="translated">Файли зображень</target>
-        </trans-unit>
         <trans-unit id="smoking1" translate="yes" xml:space="preserve">
           <source>Резко негативное</source>
           <target state="translated">Різко негативне</target>
@@ -1121,10 +1113,6 @@
         <trans-unit id="Pin" translate="yes" xml:space="preserve">
           <source>Закрепить</source>
           <target state="translated">Закріпити</target>
-        </trans-unit>
-        <trans-unit id="HidePlayer" translate="yes" xml:space="preserve">
-          <source>Сворачивать окно плеера</source>
-          <target state="translated">Згортати вікно плеєра</target>
         </trans-unit>
         <trans-unit id="ApiError_messageSend" translate="yes" xml:space="preserve">
           <source>Сообщение не может быть отправлено, так как Вы разослали слишком много сообщений за последнее время.</source>
@@ -1391,10 +1379,6 @@
           <source>Сбой отправки</source>
           <target state="translated">Не вдалося відправити</target>
         </trans-unit>
-        <trans-unit id="smile_quick_input" translate="yes" xml:space="preserve">
-          <source>Отображать над полем ввода</source>
-          <target state="translated">Відображати над полем введення</target>
-        </trans-unit>
         <trans-unit id="Utils" translate="yes" xml:space="preserve">
           <source>Утилиты</source>
           <target state="translated">Утиліти</target>
@@ -1588,6 +1572,130 @@ https://vk.com/microvk</target>
         <trans-unit id="refresh" translate="yes" xml:space="preserve">
           <source>Обновить</source>
           <target state="translated">Оновити</target>
+        </trans-unit>
+        <trans-unit id="SendSuccessfully" translate="yes" xml:space="preserve">
+          <source>Сообщение доставлено</source>
+          <target state="translated">Повідомлення доставлено</target>
+        </trans-unit>
+        <trans-unit id="Notification4_0" translate="yes" xml:space="preserve">
+          <source>Новое сообщение из беседы</source>
+          <target state="translated">Нове повідомлення з чату</target>
+        </trans-unit>
+        <trans-unit id="SendSuccessfullyNotify" translate="yes" xml:space="preserve">
+          <source>Только для отправленных через уведомление</source>
+          <target state="translated">Тільки для відправлених через сповіщення</target>
+        </trans-unit>
+        <trans-unit id="SmilePanel" translate="yes" xml:space="preserve">
+          <source>Панель с последними смайлами</source>
+          <target state="translated">Панель з останніми смайлами</target>
+        </trans-unit>
+        <trans-unit id="MediaKey" translate="yes" xml:space="preserve">
+          <source>Мультимедийные клавиши</source>
+          <target state="translated">Мультимедійні клавіші</target>
+        </trans-unit>
+        <trans-unit id="Important" translate="yes" xml:space="preserve">
+          <source>Важное</source>
+          <target state="translated">Важливе</target>
+        </trans-unit>
+        <trans-unit id="markAsImportant" translate="yes" xml:space="preserve">
+          <source>Пометить как важное</source>
+          <target state="translated">Позначити як важливе</target>
+        </trans-unit>
+        <trans-unit id="DialogTip" translate="yes" xml:space="preserve">
+          <source>Здесь будет выводиться история переписки.</source>
+          <target state="translated">Тут буде відображена історія листування.</target>
+        </trans-unit>
+        <trans-unit id="PlayerNotInTaskBar" translate="yes" xml:space="preserve">
+          <source>Не отображать на панели задач</source>
+          <target state="translated">Не відображати на панелі завдань</target>
+        </trans-unit>
+        <trans-unit id="TabBottom" translate="yes" xml:space="preserve">
+          <source>Вкладки снизу</source>
+          <target state="translated">Вкладки знизу</target>
+        </trans-unit>
+        <trans-unit id="autoSelect" translate="yes" xml:space="preserve">
+          <source>Авто выбор</source>
+          <target state="translated">Авто вибір</target>
+        </trans-unit>
+        <trans-unit id="RunAsStartup" translate="yes" xml:space="preserve">
+          <source>Запуск при старте Windows</source>
+          <target state="translated">Запуск при старті Windows</target>
+        </trans-unit>
+        <trans-unit id="OnlineWait" translate="yes" xml:space="preserve">
+          <source>30-ти секундная задержка установки статуса онлайн после запуска программы</source>
+          <target state="translated">30-ти секундна затримка установки статусу онлайн після запуску програми</target>
+        </trans-unit>
+        <trans-unit id="dragAndDropTip" translate="yes" xml:space="preserve">
+          <source>Отпустите клавишу мыши, чтобы прикрепить объекты</source>
+          <target state="translated">Відпустіть кнопку миші, щоб прикріпити об'єкти</target>
+        </trans-unit>
+        <trans-unit id="Display" translate="yes" xml:space="preserve">
+          <source>Дисплей</source>
+          <target state="translated">Дисплей</target>
+        </trans-unit>
+        <trans-unit id="LoadMore" translate="yes" xml:space="preserve">
+          <source>Загрузить еще</source>
+          <target state="translated">Завантажити більше</target>
+        </trans-unit>
+        <trans-unit id="Likes" translate="yes" xml:space="preserve">
+          <source>Мне нравится</source>
+          <target state="translated">Сподобалось</target>
+        </trans-unit>
+        <trans-unit id="FriendsList" translate="yes" xml:space="preserve">
+          <source>Списки друзей</source>
+          <target state="translated">Списки друзів</target>
+        </trans-unit>
+        <trans-unit id="Lists" translate="yes" xml:space="preserve">
+          <source>Списки</source>
+          <target state="translated">Списки</target>
+        </trans-unit>
+        <trans-unit id="ApiError173" translate="yes" xml:space="preserve">
+          <source>Создано максимальное количество списков</source>
+          <target state="translated">Створено максимальну кількість списків</target>
+        </trans-unit>
+        <trans-unit id="save" translate="yes" xml:space="preserve">
+          <source>Сохранить</source>
+          <target state="translated">Зберегти</target>
+        </trans-unit>
+        <trans-unit id="selected" translate="yes" xml:space="preserve">
+          <source>Выбрано</source>
+          <target state="translated">Вибрано</target>
+        </trans-unit>
+        <trans-unit id="all_files" translate="yes" xml:space="preserve">
+          <source>Все файлы</source>
+          <target state="translated">Усі файли</target>
+        </trans-unit>
+        <trans-unit id="UpdateAvailable" translate="yes" xml:space="preserve">
+          <source>Доступно обновление</source>
+          <target state="translated">Доступно оновлення</target>
+        </trans-unit>
+        <trans-unit id="CheckUpdates" translate="yes" xml:space="preserve">
+          <source>Проверить обновления</source>
+          <target state="translated">Перевірити наявність оновлень</target>
+        </trans-unit>
+        <trans-unit id="installed_version" translate="yes" xml:space="preserve">
+          <source>Установленная версия</source>
+          <target state="translated">Встановлена версія</target>
+        </trans-unit>
+        <trans-unit id="updateSize" translate="yes" xml:space="preserve">
+          <source>Размер обновления</source>
+          <target state="translated">Розмір оновлення</target>
+        </trans-unit>
+        <trans-unit id="new_version" translate="yes" xml:space="preserve">
+          <source>Новая версия</source>
+          <target state="translated">Нова версія</target>
+        </trans-unit>
+        <trans-unit id="Install" translate="yes" xml:space="preserve">
+          <source>Установить</source>
+          <target state="translated">Встановити</target>
+        </trans-unit>
+        <trans-unit id="latest_version" translate="yes" xml:space="preserve">
+          <source>Установлена последняя версия</source>
+          <target state="translated">Остання версія встановлена</target>
+        </trans-unit>
+        <trans-unit id="docs" translate="yes" xml:space="preserve">
+          <source>Документы</source>
+          <target state="translated">Документи</target>
         </trans-unit>
       </group>
     </body>
