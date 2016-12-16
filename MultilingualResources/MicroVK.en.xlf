@@ -208,7 +208,8 @@
         </trans-unit>
         <trans-unit id="Whats_new" translate="yes" xml:space="preserve">
           <source>Что нового</source>
-          <target state="translated">What's new</target>
+          <target state="needs-review-translation">What's new</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="About_Me" translate="yes" xml:space="preserve">
           <source>О себе</source>
@@ -571,8 +572,9 @@
           <target state="translated">Spell check</target>
         </trans-unit>
         <trans-unit id="SystemSettings4" translate="yes" xml:space="preserve">
-          <source>Помечать сообщения как прочитанные</source>
-          <target state="translated" state-qualifier="mt-suggestion">Mark messages as read</target>
+          <source>Помечать сообщения прочитанными</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Mark messages as read</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="SystemSettings5" translate="yes" xml:space="preserve">
           <source>Проверять ссылки</source>
@@ -1691,6 +1693,156 @@ https://vk.com/microvk</target>
         <trans-unit id="docs" translate="yes" xml:space="preserve">
           <source>Документы</source>
           <target state="new">Документы</target>
+        </trans-unit>
+        <trans-unit id="reset" translate="yes" xml:space="preserve">
+          <source>Сброс</source>
+          <target state="new">Сброс</target>
+        </trans-unit>
+        <trans-unit id="Notification30" translate="yes" xml:space="preserve">
+          <source>Только если окно неактивно</source>
+          <target state="new">Только если окно неактивно</target>
+        </trans-unit>
+        <trans-unit id="Notification31" translate="yes" xml:space="preserve">
+          <source>Только если диалог не открыт</source>
+          <target state="new">Только если диалог не открыт</target>
+        </trans-unit>
+        <trans-unit id="sound" translate="yes" xml:space="preserve">
+          <source>Звук</source>
+          <target state="new">Звук</target>
+        </trans-unit>
+        <trans-unit id="settingColor" translate="yes" xml:space="preserve">
+          <source>Настроить цвет</source>
+          <target state="new">Настроить цвет</target>
+        </trans-unit>
+        <trans-unit id="DialogTips" translate="yes" xml:space="preserve">
+          <source>Пожалуйста, выберите диалог из списка слева</source>
+          <target state="new">Пожалуйста, выберите диалог из списка слева</target>
+        </trans-unit>
+        <trans-unit id="OpenFirstDialog" translate="yes" xml:space="preserve">
+          <source>Автооткрытие первого диалога</source>
+          <target state="new">Автооткрытие первого диалога</target>
+        </trans-unit>
+        <trans-unit id="SetDesktopWallpaper" translate="yes" xml:space="preserve">
+          <source>Сделать фоновым изображением рабочего стола</source>
+          <target state="new">Сделать фоновым изображением рабочего стола</target>
+        </trans-unit>
+        <trans-unit id="delaySending" translate="yes" xml:space="preserve">
+          <source>Отложить отправку файлов</source>
+          <target state="new">Отложить отправку файлов</target>
+        </trans-unit>
+        <trans-unit id="Donate1" translate="yes" xml:space="preserve">
+          <source>Собрано:</source>
+          <target state="new">Собрано:</target>
+        </trans-unit>
+        <trans-unit id="ApiError105" translate="yes" xml:space="preserve">
+          <source>Невозможно сохранить файл: неверное расширение или имя</source>
+          <target state="new">Невозможно сохранить файл: неверное расширение или имя</target>
+        </trans-unit>
+        <trans-unit id="Remember" translate="yes" xml:space="preserve">
+          <source>Запомнить</source>
+          <target state="new">Запомнить</target>
+        </trans-unit>
+        <trans-unit id="ShowMore" translate="yes" xml:space="preserve">
+          <source>Показать полностью…</source>
+          <target state="new">Показать полностью…</target>
+        </trans-unit>
+        <trans-unit id="Choose_audience" translate="yes" xml:space="preserve">
+          <source>Выберите аудиторию</source>
+          <target state="new">Выберите аудиторию</target>
+        </trans-unit>
+        <trans-unit id="Friends_and_subscribers" translate="yes" xml:space="preserve">
+          <source>Друзья и подписчики</source>
+          <target state="new">Друзья и подписчики</target>
+        </trans-unit>
+        <trans-unit id="Send_a_private_message" translate="yes" xml:space="preserve">
+          <source>Отправить личным сообщением</source>
+          <target state="new">Отправить личным сообщением</target>
+        </trans-unit>
+        <trans-unit id="Subscribers_community" translate="yes" xml:space="preserve">
+          <source>Подписчики сообщества</source>
+          <target state="new">Подписчики сообщества</target>
+        </trans-unit>
+        <trans-unit id="your_comment" translate="yes" xml:space="preserve">
+          <source>Ваш комментарий</source>
+          <target state="new">Ваш комментарий</target>
+        </trans-unit>
+        <trans-unit id="Gray_list" translate="yes" xml:space="preserve">
+          <source>Игнорировать</source>
+          <target state="new">Игнорировать</target>
+        </trans-unit>
+        <trans-unit id="Gray_list_tip" translate="yes" xml:space="preserve">
+          <source>Выберите уведомления которые не будут отображаться</source>
+          <target state="new">Выберите уведомления которые не будут отображаться</target>
+        </trans-unit>
+        <trans-unit id="White_list" translate="yes" xml:space="preserve">
+          <source>Избранные</source>
+          <target state="new">Избранные</target>
+        </trans-unit>
+        <trans-unit id="White_list_tip" translate="yes" xml:space="preserve">
+          <source>В режиме Белого списка будут отображаться только выбранные вами уведомления</source>
+          <target state="new">В режиме Белого списка будут отображаться только выбранные вами уведомления</target>
+        </trans-unit>
+        <trans-unit id="SaveAll" translate="yes" xml:space="preserve">
+          <source>Сохранить все</source>
+          <target state="new">Сохранить все</target>
+        </trans-unit>
+        <trans-unit id="OnlyFavorite" translate="yes" xml:space="preserve">
+          <source>Только избранные</source>
+          <target state="new">Только избранные</target>
+        </trans-unit>
+        <trans-unit id="gift" translate="yes" xml:space="preserve">
+          <source>Подарок</source>
+          <target state="new">Подарок</target>
+        </trans-unit>
+        <trans-unit id="audio_msg" translate="yes" xml:space="preserve">
+          <source>Голосовое сообщение</source>
+          <target state="new">Голосовое сообщение</target>
+        </trans-unit>
+        <trans-unit id="graffiti" translate="yes" xml:space="preserve">
+          <source>Граффити</source>
+          <target state="new">Граффити</target>
+        </trans-unit>
+        <trans-unit id="MarkAsRead" translate="yes" xml:space="preserve">
+          <source>Пометить как прочитанное</source>
+          <target state="new">Пометить как прочитанное</target>
+        </trans-unit>
+        <trans-unit id="MarkAllAsRead" translate="yes" xml:space="preserve">
+          <source>Пометить все сообщения прочитанными</source>
+          <target state="new">Пометить все сообщения прочитанными</target>
+        </trans-unit>
+        <trans-unit id="gameTip" translate="yes" xml:space="preserve">
+          <source>Для управления используйте клавиши со стрелками</source>
+          <target state="new">Для управления используйте клавиши со стрелками</target>
+        </trans-unit>
+        <trans-unit id="audioTokenTips" translate="yes" xml:space="preserve">
+          <source>Почему требуется повторно вводить учетные данные</source>
+          <target state="new">Почему требуется повторно вводить учетные данные</target>
+        </trans-unit>
+        <trans-unit id="audioTokenTips1" translate="yes" xml:space="preserve">
+          <source>С 16 декабря ВКонтакте прекратил доступ к аудиозаписям для всех сторонних приложений, включая MicroVK. 
+После ввода учетных данных, MicroVK попытается использовать id официального приложения ВКонтакте, для востановления доступа к аудиозаписям</source>
+          <target state="new">С 16 декабря ВКонтакте прекратил доступ к аудиозаписям для всех сторонних приложений, включая MicroVK. 
+После ввода учетных данных, MicroVK попытается использовать id официального приложения ВКонтакте, для востановления доступа к аудиозаписям</target>
+        </trans-unit>
+        <trans-unit id="audioTokenTitle" translate="yes" xml:space="preserve">
+          <source>Доступ к аудио</source>
+          <target state="new">Доступ к аудио</target>
+        </trans-unit>
+        <trans-unit id="AuthLogin" translate="yes" xml:space="preserve">
+          <source>Логин</source>
+          <target state="new">Логин</target>
+        </trans-unit>
+        <trans-unit id="Password" translate="yes" xml:space="preserve">
+          <source>Пароль</source>
+          <target state="new">Пароль</target>
+        </trans-unit>
+        <trans-unit id="cancel" translate="yes" xml:space="preserve">
+          <source>Отмена</source>
+          <target state="new">Отмена</target>
+        </trans-unit>
+        <trans-unit id="newImage" translate="yes" xml:space="preserve">
+          <source>Новий фон каждый день</source>
+          <target state="new">Новий фон каждый день</target>
         </trans-unit>
       </group>
     </body>

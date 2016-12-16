@@ -543,8 +543,8 @@
           <target state="translated">Перевірка орфографії</target>
         </trans-unit>
         <trans-unit id="SystemSettings4" translate="yes" xml:space="preserve">
-          <source>Помечать сообщения как прочитанные</source>
-          <target state="translated">Позначати повідомлення як прочитані</target>
+          <source>Помечать сообщения прочитанными</source>
+          <target state="translated">Позначати повідомлення прочитаними</target>
         </trans-unit>
         <trans-unit id="SystemSettings5" translate="yes" xml:space="preserve">
           <source>Проверять ссылки</source>
@@ -1696,6 +1696,156 @@ https://vk.com/microvk</target>
         <trans-unit id="docs" translate="yes" xml:space="preserve">
           <source>Документы</source>
           <target state="translated">Документи</target>
+        </trans-unit>
+        <trans-unit id="reset" translate="yes" xml:space="preserve">
+          <source>Сброс</source>
+          <target state="translated">Скинути</target>
+        </trans-unit>
+        <trans-unit id="Notification30" translate="yes" xml:space="preserve">
+          <source>Только если окно неактивно</source>
+          <target state="translated">Тільки якщо вікно неактивно</target>
+        </trans-unit>
+        <trans-unit id="Notification31" translate="yes" xml:space="preserve">
+          <source>Только если диалог не открыт</source>
+          <target state="translated">Тільки якщо діалог не відкрито</target>
+        </trans-unit>
+        <trans-unit id="sound" translate="yes" xml:space="preserve">
+          <source>Звук</source>
+          <target state="translated">Звук</target>
+        </trans-unit>
+        <trans-unit id="settingColor" translate="yes" xml:space="preserve">
+          <source>Настроить цвет</source>
+          <target state="translated">Налаштувати колір</target>
+        </trans-unit>
+        <trans-unit id="DialogTips" translate="yes" xml:space="preserve">
+          <source>Пожалуйста, выберите диалог из списка слева</source>
+          <target state="translated">Будь ласка, виберіть діалог зі списку зліва</target>
+        </trans-unit>
+        <trans-unit id="OpenFirstDialog" translate="yes" xml:space="preserve">
+          <source>Автооткрытие первого диалога</source>
+          <target state="translated">Автовідкриття першого діалогу</target>
+        </trans-unit>
+        <trans-unit id="SetDesktopWallpaper" translate="yes" xml:space="preserve">
+          <source>Сделать фоновым изображением рабочего стола</source>
+          <target state="translated">Зробити фоновим зображенням робочого столу</target>
+        </trans-unit>
+        <trans-unit id="delaySending" translate="yes" xml:space="preserve">
+          <source>Отложить отправку файлов</source>
+          <target state="translated">Затримка відправлення файлу</target>
+        </trans-unit>
+        <trans-unit id="Donate1" translate="yes" xml:space="preserve">
+          <source>Собрано:</source>
+          <target state="translated">Зібрано:</target>
+        </trans-unit>
+        <trans-unit id="ApiError105" translate="yes" xml:space="preserve">
+          <source>Невозможно сохранить файл: неверное расширение или имя</source>
+          <target state="translated">Неможливо зберегти файл: невірне розширення або ім'я</target>
+        </trans-unit>
+        <trans-unit id="Remember" translate="yes" xml:space="preserve">
+          <source>Запомнить</source>
+          <target state="translated">Запам`ятати</target>
+        </trans-unit>
+        <trans-unit id="ShowMore" translate="yes" xml:space="preserve">
+          <source>Показать полностью…</source>
+          <target state="translated">Показати повністю...</target>
+        </trans-unit>
+        <trans-unit id="Choose_audience" translate="yes" xml:space="preserve">
+          <source>Выберите аудиторию</source>
+          <target state="translated">Виберіть аудиторію</target>
+        </trans-unit>
+        <trans-unit id="Friends_and_subscribers" translate="yes" xml:space="preserve">
+          <source>Друзья и подписчики</source>
+          <target state="translated">Друзі та підписчики</target>
+        </trans-unit>
+        <trans-unit id="Send_a_private_message" translate="yes" xml:space="preserve">
+          <source>Отправить личным сообщением</source>
+          <target state="translated">Надіслати особистим повідомленням</target>
+        </trans-unit>
+        <trans-unit id="Subscribers_community" translate="yes" xml:space="preserve">
+          <source>Подписчики сообщества</source>
+          <target state="translated">Підписчики спільноти</target>
+        </trans-unit>
+        <trans-unit id="your_comment" translate="yes" xml:space="preserve">
+          <source>Ваш комментарий</source>
+          <target state="translated">Ваш коментар</target>
+        </trans-unit>
+        <trans-unit id="Gray_list" translate="yes" xml:space="preserve">
+          <source>Игнорировать</source>
+          <target state="translated">Ігнорувати</target>
+        </trans-unit>
+        <trans-unit id="Gray_list_tip" translate="yes" xml:space="preserve">
+          <source>Выберите уведомления которые не будут отображаться</source>
+          <target state="translated">Виберіть повідомлення, які не відображаються</target>
+        </trans-unit>
+        <trans-unit id="White_list" translate="yes" xml:space="preserve">
+          <source>Избранные</source>
+          <target state="translated">Вибрані</target>
+        </trans-unit>
+        <trans-unit id="White_list_tip" translate="yes" xml:space="preserve">
+          <source>В режиме Белого списка будут отображаться только выбранные вами уведомления</source>
+          <target state="translated">У режимі Білого списку будуть відображатися тільки вибрані вами повідомлення</target>
+        </trans-unit>
+        <trans-unit id="SaveAll" translate="yes" xml:space="preserve">
+          <source>Сохранить все</source>
+          <target state="translated">Зберегти все</target>
+        </trans-unit>
+        <trans-unit id="OnlyFavorite" translate="yes" xml:space="preserve">
+          <source>Только избранные</source>
+          <target state="translated">Тільки обрані</target>
+        </trans-unit>
+        <trans-unit id="gift" translate="yes" xml:space="preserve">
+          <source>Подарок</source>
+          <target state="translated">Подарунок</target>
+        </trans-unit>
+        <trans-unit id="audio_msg" translate="yes" xml:space="preserve">
+          <source>Голосовое сообщение</source>
+          <target state="translated">Голосове повідомлення</target>
+        </trans-unit>
+        <trans-unit id="graffiti" translate="yes" xml:space="preserve">
+          <source>Граффити</source>
+          <target state="translated">Графіті</target>
+        </trans-unit>
+        <trans-unit id="MarkAsRead" translate="yes" xml:space="preserve">
+          <source>Пометить как прочитанное</source>
+          <target state="translated">Позначити як прочитане</target>
+        </trans-unit>
+        <trans-unit id="MarkAllAsRead" translate="yes" xml:space="preserve">
+          <source>Пометить все сообщения прочитанными</source>
+          <target state="translated">Позначити всі повідомлення прочитаними</target>
+        </trans-unit>
+        <trans-unit id="gameTip" translate="yes" xml:space="preserve">
+          <source>Для управления используйте клавиши со стрелками</source>
+          <target state="translated">Для керування використовуйте клавіші зі стрілками</target>
+        </trans-unit>
+        <trans-unit id="audioTokenTips" translate="yes" xml:space="preserve">
+          <source>Почему требуется повторно вводить учетные данные</source>
+          <target state="translated">Чому потрібно повторно ввести облікові дані</target>
+        </trans-unit>
+        <trans-unit id="audioTokenTips1" translate="yes" xml:space="preserve">
+          <source>С 16 декабря ВКонтакте прекратил доступ к аудиозаписям для всех сторонних приложений, включая MicroVK. 
+После ввода учетных данных, MicroVK попытается использовать id официального приложения ВКонтакте, для востановления доступа к аудиозаписям</source>
+          <target state="translated">З 16 грудня ВКонтакті припинив доступ до аудіозаписів для всіх сторонніх додатків, включаючи MicroVK.
+Після введення облікових даних, MicroVK спробує використати id офіційного додатку Вконтакті, для востановленія доступу до аудіозаписів</target>
+        </trans-unit>
+        <trans-unit id="audioTokenTitle" translate="yes" xml:space="preserve">
+          <source>Доступ к аудио</source>
+          <target state="translated">Доступ до аудіо</target>
+        </trans-unit>
+        <trans-unit id="AuthLogin" translate="yes" xml:space="preserve">
+          <source>Логин</source>
+          <target state="translated">Логін</target>
+        </trans-unit>
+        <trans-unit id="Password" translate="yes" xml:space="preserve">
+          <source>Пароль</source>
+          <target state="translated">Пароль</target>
+        </trans-unit>
+        <trans-unit id="cancel" translate="yes" xml:space="preserve">
+          <source>Отмена</source>
+          <target state="translated">Скасувати</target>
+        </trans-unit>
+        <trans-unit id="newImage" translate="yes" xml:space="preserve">
+          <source>Новий фон каждый день</source>
+          <target state="translated">Нове тло кожен день</target>
         </trans-unit>
       </group>
     </body>
