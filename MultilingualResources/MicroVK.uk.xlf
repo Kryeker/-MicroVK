@@ -74,10 +74,6 @@
           <source>Открыть</source>
           <target state="translated">Відкрити</target>
         </trans-unit>
-        <trans-unit id="Photo" translate="yes" xml:space="preserve">
-          <source>Фото</source>
-          <target state="translated">Фото</target>
-        </trans-unit>
         <trans-unit id="Photos_walls" translate="yes" xml:space="preserve">
           <source>Фото на стенах</source>
           <target state="translated">Фотографії на стінах</target>
@@ -93,10 +89,6 @@
         <trans-unit id="Settings" translate="yes" xml:space="preserve">
           <source>Настройки</source>
           <target state="translated">Параметри</target>
-        </trans-unit>
-        <trans-unit id="Video" translate="yes" xml:space="preserve">
-          <source>Видео</source>
-          <target state="translated">Відео</target>
         </trans-unit>
         <trans-unit id="Whats_new" translate="yes" xml:space="preserve">
           <source>Что нового</source>
@@ -531,12 +523,12 @@
           <target state="translated">Різне</target>
         </trans-unit>
         <trans-unit id="SystemSettings1" translate="yes" xml:space="preserve">
-          <source>Собеседнику виден мой статус набора текста</source>
-          <target state="translated">Співрозмовнику видно мій статус набору тексту</target>
+          <source>Собеседник видит как я печатаю</source>
+          <target state="translated">Співрозмовник бачить як я набираю текст</target>
         </trans-unit>
         <trans-unit id="SystemSettings2" translate="yes" xml:space="preserve">
-          <source>Не отображать мой статус онлайн</source>
-          <target state="translated">Не показувати мій онлайн статус</target>
+          <source>Не отображать меня онлайн</source>
+          <target state="translated">Не показувати мене онлайн</target>
         </trans-unit>
         <trans-unit id="SystemSettings3" translate="yes" xml:space="preserve">
           <source>Проверка правописания</source>
@@ -587,8 +579,8 @@
           <target state="translated">Отримати посилання для входу</target>
         </trans-unit>
         <trans-unit id="Copyright" translate="yes" xml:space="preserve">
-          <source>MicroVK, © 2015, Artem Moldowanenko</source>
-          <target state="translated" state-qualifier="mt-suggestion">MicroVK, © 2015 року Артем Moldowanenko</target>
+          <source>MicroVK, © 2017, Artem Moldowanenko</source>
+          <target state="translated">MicroVK, © 2017 року Артем Moldowanenko</target>
         </trans-unit>
         <trans-unit id="License1" translate="yes" xml:space="preserve">
           <source>Использование «MicroVK» подразумевает, что Вы принимаете условия настоящего</source>
@@ -758,14 +750,6 @@
           <source>Выбрать</source>
           <target state="translated">Вибрати</target>
         </trans-unit>
-        <trans-unit id="Invisible_disabled" translate="yes" xml:space="preserve">
-          <source>Режим "Невидимка" выключен</source>
-          <target state="translated">"Невидимий" режим вимкнено</target>
-        </trans-unit>
-        <trans-unit id="Invisible_enabled" translate="yes" xml:space="preserve">
-          <source>Режим "Невидимка" включен</source>
-          <target state="translated">"Невидимий" режим увімкнуто</target>
-        </trans-unit>
         <trans-unit id="opacity" translate="yes" xml:space="preserve">
           <source>Непрозрачность:</source>
           <target state="translated">Непрозорість:</target>
@@ -831,8 +815,8 @@
           <target state="translated">Оффлайн</target>
         </trans-unit>
         <trans-unit id="notifycation_aligment" translate="yes" xml:space="preserve">
-          <source>Задано новое расположение уведомлений</source>
-          <target state="translated">Задано нове розташування повідомлень</target>
+          <source>Текущее расположение уведомлений</source>
+          <target state="translated">Поточне розташування сповіщень</target>
         </trans-unit>
         <trans-unit id="notifycation_color_prewiew" translate="yes" xml:space="preserve">
           <source>Предпросмотр нового цвета уведомления</source>
@@ -994,10 +978,6 @@
           <source>Группа приложения в ВК</source>
           <target state="translated">Група додатка в ВК</target>
         </trans-unit>
-        <trans-unit id="Invisible" translate="yes" xml:space="preserve">
-          <source>Невидимый</source>
-          <target state="translated">Невидимий</target>
-        </trans-unit>
         <trans-unit id="Next1" translate="yes" xml:space="preserve">
           <source>Продолжить</source>
           <target state="translated">Продовжити</target>
@@ -1059,8 +1039,8 @@
           <target state="translated">Аудіостатус встановлений</target>
         </trans-unit>
         <trans-unit id="need_restart" translate="yes" xml:space="preserve">
-          <source>Применить (потребуется перезапуск)</source>
-          <target state="translated">Застосувати (знадобиться перезапуск)</target>
+          <source>Эти изменения станут доступны при повторном запуске приложения.</source>
+          <target state="translated">Ці зміни стануть доступні при повторному запуску програми.</target>
         </trans-unit>
         <trans-unit id="New_friends" translate="yes" xml:space="preserve">
           <source>Новых друзей:</source>
@@ -1156,16 +1136,8 @@
           <target state="translated">Зв'язатися з автором програми</target>
         </trans-unit>
         <trans-unit id="action_chat_create" translate="yes" xml:space="preserve">
-          <source>создал беседу</source>
-          <target state="translated">створив чат</target>
-        </trans-unit>
-        <trans-unit id="action_chat_create1" translate="yes" xml:space="preserve">
-          <source>создала беседу</source>
-          <target state="translated">створила чат</target>
-        </trans-unit>
-        <trans-unit id="postWall" translate="yes" xml:space="preserve">
-          <source>Запись на стене</source>
-          <target state="translated">Напис на стіні</target>
+          <source>Создана беседа</source>
+          <target state="translated">Створена бесіда</target>
         </trans-unit>
         <trans-unit id="AutoTranslate" translate="yes" xml:space="preserve">
           <source>Машинный перевод</source>
@@ -1227,14 +1199,6 @@
           <source>Вложения</source>
           <target state="translated">Вкладення</target>
         </trans-unit>
-        <trans-unit id="Audio" translate="yes" xml:space="preserve">
-          <source>Аудиозапись</source>
-          <target state="translated">Аудіозапис</target>
-        </trans-unit>
-        <trans-unit id="Doc" translate="yes" xml:space="preserve">
-          <source>Документ</source>
-          <target state="translated">Документ</target>
-        </trans-unit>
         <trans-unit id="sticker" translate="yes" xml:space="preserve">
           <source>Стикер</source>
           <target state="translated">Стікер</target>
@@ -1292,8 +1256,8 @@
           <target state="translated">Файл</target>
         </trans-unit>
         <trans-unit id="MicroVKGroupJoin" translate="yes" xml:space="preserve">
-          <source>Подпишитесь на [url=http://vk.com/microvk/]нашу[/url] страницу в Вконтакте, дабы ничего не пропустить</source>
-          <target state="translated">Підпишіться на [url=HTTP: //vk.com/microvk/]нашу[/ URL] сторінку в Вконтакті, щоб нічого не пропустити</target>
+          <source>Подпишитесь на [url=http://vk.com/microvk/]нашу[/url] страницу в ВКонтакте, дабы ничего не пропустить</source>
+          <target state="translated">Підпишіться на [url=http: //vk.com/microvk/]нашу[/url] сторінку в ВКонтакті, щоб нічого не пропустити</target>
         </trans-unit>
         <trans-unit id="Join" translate="yes" xml:space="preserve">
           <source>Подписаться</source>
@@ -1407,10 +1371,6 @@
           <source>Стиль диалогов</source>
           <target state="translated">Стиль діалогів</target>
         </trans-unit>
-        <trans-unit id="Link" translate="yes" xml:space="preserve">
-          <source>Ссылка</source>
-          <target state="translated">Посилання</target>
-        </trans-unit>
         <trans-unit id="delete" translate="yes" xml:space="preserve">
           <source>Удалить</source>
           <target state="translated">Видалити</target>
@@ -1436,9 +1396,9 @@
           <target state="translated">Запускати згорнутим</target>
         </trans-unit>
         <trans-unit id="microvkRecommend" translate="yes" xml:space="preserve">
-          <source>Рекомендую MicroVK - Вконтакте для Windows!
+          <source>Рекомендую MicroVK - ВКонтакте для Windows!
 https://vk.com/microvk</source>
-          <target state="translated">Рекомендую MicroVK - Вконтакте для Windows!
+          <target state="translated">Рекомендую MicroVK - ВКонтакте для Windows!
 https://vk.com/microvk</target>
         </trans-unit>
         <trans-unit id="microvkRecommendScreenshot" translate="yes" xml:space="preserve">
@@ -1492,10 +1452,6 @@ https://vk.com/microvk</target>
         <trans-unit id="bell_sleep_minute" translate="yes" xml:space="preserve">
           <source>Не беспокоить {0} минут</source>
           <target state="translated">Не турбувати {0} хвилин</target>
-        </trans-unit>
-        <trans-unit id="SaveWindowsSize" translate="yes" xml:space="preserve">
-          <source>Запоминать размер окна при выходе</source>
-          <target state="translated">Запам'ятовувати розмір вікна при виході</target>
         </trans-unit>
         <trans-unit id="dsOut" translate="yes" xml:space="preserve">
           <source>Входящее сообщение</source>
@@ -1622,8 +1578,8 @@ https://vk.com/microvk</target>
           <target state="translated">Запуск при старті Windows</target>
         </trans-unit>
         <trans-unit id="OnlineWait" translate="yes" xml:space="preserve">
-          <source>30-ти секундная задержка установки статуса онлайн после запуска программы</source>
-          <target state="translated">30-ти секундна затримка установки статусу онлайн після запуску програми</target>
+          <source>30 секундная задержка установки статуса онлайн после запуска программы</source>
+          <target state="translated">30 секундна затримка установки статусу онлайн після запуску програми</target>
         </trans-unit>
         <trans-unit id="dragAndDropTip" translate="yes" xml:space="preserve">
           <source>Отпустите клавишу мыши, чтобы прикрепить объекты</source>
@@ -1638,7 +1594,7 @@ https://vk.com/microvk</target>
           <target state="translated">Завантажити більше</target>
         </trans-unit>
         <trans-unit id="Likes" translate="yes" xml:space="preserve">
-          <source>Мне нравится</source>
+          <source>Нравится</source>
           <target state="translated">Сподобалось</target>
         </trans-unit>
         <trans-unit id="FriendsList" translate="yes" xml:space="preserve">
@@ -1774,16 +1730,16 @@ https://vk.com/microvk</target>
           <target state="translated">Ігнорувати</target>
         </trans-unit>
         <trans-unit id="Gray_list_tip" translate="yes" xml:space="preserve">
-          <source>Выберите уведомления которые не будут отображаться</source>
-          <target state="translated">Виберіть повідомлення, які не відображаються</target>
+          <source>Уведомления которые не будут отображаться</source>
+          <target state="translated">Повідомлення які не будуть відображатися</target>
         </trans-unit>
         <trans-unit id="White_list" translate="yes" xml:space="preserve">
           <source>Избранные</source>
           <target state="translated">Вибрані</target>
         </trans-unit>
         <trans-unit id="White_list_tip" translate="yes" xml:space="preserve">
-          <source>В режиме Белого списка будут отображаться только выбранные вами уведомления</source>
-          <target state="translated">У режимі Білого списку будуть відображатися тільки вибрані вами повідомлення</target>
+          <source>В режиме "Только избранные" будут отображаться только эти уведомления</source>
+          <target state="translated">У режимі "Тільки обрані" будуть відображатися тільки ці повідомлення</target>
         </trans-unit>
         <trans-unit id="SaveAll" translate="yes" xml:space="preserve">
           <source>Сохранить все</source>
@@ -1823,7 +1779,7 @@ https://vk.com/microvk</target>
         </trans-unit>
         <trans-unit id="audioTokenTips1" translate="yes" xml:space="preserve">
           <source>С 16 декабря ВКонтакте прекратил доступ к аудиозаписям для всех сторонних приложений, включая MicroVK. 
-После ввода учетных данных, MicroVK попытается использовать id официального приложения ВКонтакте, для востановления доступа к аудиозаписям</source>
+После ввода учетных данных, MicroVK попытается использовать id официального приложения ВКонтакте, для восстановления доступа к аудиозаписям</source>
           <target state="translated">З 16 грудня ВКонтакті припинив доступ до аудіозаписів для всіх сторонніх додатків, включаючи MicroVK.
 Після введення облікових даних, MicroVK спробує використати id офіційного додатку Вконтакті, для востановленія доступу до аудіозаписів</target>
         </trans-unit>
@@ -1844,8 +1800,378 @@ https://vk.com/microvk</target>
           <target state="translated">Скасувати</target>
         </trans-unit>
         <trans-unit id="newImage" translate="yes" xml:space="preserve">
-          <source>Новий фон каждый день</source>
+          <source>Новый фон каждый день</source>
           <target state="translated">Нове тло кожен день</target>
+        </trans-unit>
+        <trans-unit id="String1" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="GoToEndHistory" translate="yes" xml:space="preserve">
+          <source>Перейти в конец истории</source>
+          <target state="translated">Перейти в кінець історії</target>
+        </trans-unit>
+        <trans-unit id="ToDesktop" translate="yes" xml:space="preserve">
+          <source>Создать ярлык на рабочем столе</source>
+          <target state="translated">Створити ярлик на робочому столі</target>
+        </trans-unit>
+        <trans-unit id="FloatDialog" translate="yes" xml:space="preserve">
+          <source>Компактный режим</source>
+          <target state="translated">Компактний режим</target>
+        </trans-unit>
+        <trans-unit id="AllDialog" translate="yes" xml:space="preserve">
+          <source>Все диалоги</source>
+          <target state="translated">Усі діалоги</target>
+        </trans-unit>
+        <trans-unit id="SearchInDialog" translate="yes" xml:space="preserve">
+          <source>Поиск в текущем диалоге</source>
+          <target state="translated">Пошук в поточному діалозі</target>
+        </trans-unit>
+        <trans-unit id="closeOthersTab" translate="yes" xml:space="preserve">
+          <source>Закрыть другие вкладки</source>
+          <target state="translated">Закрити інші вкладки</target>
+        </trans-unit>
+        <trans-unit id="size" translate="yes" xml:space="preserve">
+          <source>Размер</source>
+          <target state="translated">Розмір</target>
+        </trans-unit>
+        <trans-unit id="DownloadingApplicationFiles" translate="yes" xml:space="preserve">
+          <source>Загрузка новых файлов приложения</source>
+          <target state="translated">Завантаження нових файлів програми</target>
+        </trans-unit>
+        <trans-unit id="DownloadingApplicationInformation" translate="yes" xml:space="preserve">
+          <source>Загрузка информации о приложении</source>
+          <target state="translated">Завантаження інформації про програму</target>
+        </trans-unit>
+        <trans-unit id="DownloadingDeploymentInformation" translate="yes" xml:space="preserve">
+          <source>Загрузка сведений о развертывании</source>
+          <target state="translated">Завантаження відомостей щодо розгортання</target>
+        </trans-unit>
+        <trans-unit id="comments" translate="yes" xml:space="preserve">
+          <source>Комментарии</source>
+          <target state="translated">Коментарі</target>
+        </trans-unit>
+        <trans-unit id="Smiles" translate="yes" xml:space="preserve">
+          <source>Смайлы</source>
+          <target state="translated">Смайли</target>
+        </trans-unit>
+        <trans-unit id="SmileTips" translate="yes" xml:space="preserve">
+          <source>Выберите основной набор смайлов. Недостающие смайлы будут взяты из другого набора.</source>
+          <target state="translated">Виберіть основний набір смайлів. Відсутні смайли будуть взяті з іншого набору.</target>
+        </trans-unit>
+        <trans-unit id="chat_photo_update" translate="yes" xml:space="preserve">
+          <source>Обновлена фотография беседы</source>
+          <target state="translated">Оновлена фотографія бесіди</target>
+        </trans-unit>
+        <trans-unit id="chat_photo_remove" translate="yes" xml:space="preserve">
+          <source>Удалена фотография беседы</source>
+          <target state="translated">Видалена фотографія бесіди</target>
+        </trans-unit>
+        <trans-unit id="chat_title_update" translate="yes" xml:space="preserve">
+          <source>Название беседы изменено на</source>
+          <target state="translated">Назва бесіди змінено на</target>
+        </trans-unit>
+        <trans-unit id="chat_invite_user" translate="yes" xml:space="preserve">
+          <source>Приглашен пользователь</source>
+          <target state="translated">Запрошено користувача</target>
+        </trans-unit>
+        <trans-unit id="chat_kick_user" translate="yes" xml:space="preserve">
+          <source>Исключен пользователь</source>
+          <target state="translated">Виключено користувача</target>
+        </trans-unit>
+        <trans-unit id="properties" translate="yes" xml:space="preserve">
+          <source>Свойства</source>
+          <target state="translated">Властивості</target>
+        </trans-unit>
+        <trans-unit id="owner" translate="yes" xml:space="preserve">
+          <source>Владелец</source>
+          <target state="translated">Власник</target>
+        </trans-unit>
+        <trans-unit id="title" translate="yes" xml:space="preserve">
+          <source>Название</source>
+          <target state="translated">Назва</target>
+        </trans-unit>
+        <trans-unit id="date1" translate="yes" xml:space="preserve">
+          <source>Дата</source>
+          <target state="translated">Дата</target>
+        </trans-unit>
+        <trans-unit id="preview" translate="yes" xml:space="preserve">
+          <source>Предпросмотр</source>
+          <target state="translated">Попередній перегляд</target>
+        </trans-unit>
+        <trans-unit id="AutoUpdate" translate="yes" xml:space="preserve">
+          <source>Автообновление приложения</source>
+          <target state="translated">Автопоновлення додатка</target>
+        </trans-unit>
+        <trans-unit id="RoundAvatars" translate="yes" xml:space="preserve">
+          <source>Круглые аватарки</source>
+          <target state="translated">Круглі аватарки</target>
+        </trans-unit>
+        <trans-unit id="force_restart" translate="yes" xml:space="preserve">
+          <source>Перезапустить сейчас</source>
+          <target state="translated">Перезавантажити зараз</target>
+        </trans-unit>
+        <trans-unit id="ApiError213" translate="yes" xml:space="preserve">
+          <source>Нет доступа к комментированию записи</source>
+          <target state="translated">Немає доступу до коментування записи</target>
+        </trans-unit>
+        <trans-unit id="ApiError223" translate="yes" xml:space="preserve">
+          <source>Превышен лимит комментариев на стене</source>
+          <target state="translated">Перевищено ліміт коментарів на стіні</target>
+        </trans-unit>
+        <trans-unit id="ApiError212" translate="yes" xml:space="preserve">
+          <source>Нет доступа к комментариям записи</source>
+          <target state="translated">Немає доступу до коментарів записи</target>
+        </trans-unit>
+        <trans-unit id="Download" translate="yes" xml:space="preserve">
+          <source>Загрузить</source>
+          <target state="translated">Завантажити</target>
+        </trans-unit>
+        <trans-unit id="DownloadLinks" translate="yes" xml:space="preserve">
+          <source>Ссылки для загрузки</source>
+          <target state="translated">Посилання для завантаження</target>
+        </trans-unit>
+        <trans-unit id="OpenVoting" translate="yes" xml:space="preserve">
+          <source>Открытое голосование</source>
+          <target state="translated">Відкрите голосування</target>
+        </trans-unit>
+        <trans-unit id="AnonymousVoting" translate="yes" xml:space="preserve">
+          <source>Анонимное голосование</source>
+          <target state="translated">Анонімне голосування</target>
+        </trans-unit>
+        <trans-unit id="market" translate="yes" xml:space="preserve">
+          <source>Товар</source>
+          <target state="translated">Товар</target>
+        </trans-unit>
+        <trans-unit id="market_album" translate="yes" xml:space="preserve">
+          <source>Подборка товаров</source>
+          <target state="translated">Підбірка товарів</target>
+        </trans-unit>
+        <trans-unit id="posted_photo" translate="yes" xml:space="preserve">
+          <source>Фотография, загруженная напрямую</source>
+          <target state="translated">Фотографія, завантажена напряму</target>
+        </trans-unit>
+        <trans-unit id="note" translate="yes" xml:space="preserve">
+          <source>Заметка</source>
+          <target state="translated">Нотатка</target>
+        </trans-unit>
+        <trans-unit id="poll" translate="yes" xml:space="preserve">
+          <source>Опрос</source>
+          <target state="translated">Опитування</target>
+        </trans-unit>
+        <trans-unit id="page" translate="yes" xml:space="preserve">
+          <source>Вики-страница</source>
+          <target state="translated">Вікі-сторінка</target>
+        </trans-unit>
+        <trans-unit id="album" translate="yes" xml:space="preserve">
+          <source>Альбом</source>
+          <target state="translated">Альбом</target>
+        </trans-unit>
+        <trans-unit id="photos_list" translate="yes" xml:space="preserve">
+          <source>Список фотографий</source>
+          <target state="translated">Список фотографій</target>
+        </trans-unit>
+        <trans-unit id="wall_post" translate="yes" xml:space="preserve">
+          <source>Запись на стене</source>
+          <target state="translated">Запис на стіні</target>
+        </trans-unit>
+        <trans-unit id="app" translate="yes" xml:space="preserve">
+          <source>Контент приложения</source>
+          <target state="translated">Контент додатка</target>
+        </trans-unit>
+        <trans-unit id="video" translate="yes" xml:space="preserve">
+          <source>Видео</source>
+          <target state="translated">Відео</target>
+        </trans-unit>
+        <trans-unit id="audio" translate="yes" xml:space="preserve">
+          <source>Аудиозапись</source>
+          <target state="translated">Звукозапис</target>
+        </trans-unit>
+        <trans-unit id="doc" translate="yes" xml:space="preserve">
+          <source>Документ</source>
+          <target state="translated">Документ</target>
+        </trans-unit>
+        <trans-unit id="link" translate="yes" xml:space="preserve">
+          <source>Ссылка</source>
+          <target state="translated">Посилання</target>
+        </trans-unit>
+        <trans-unit id="photo" translate="yes" xml:space="preserve">
+          <source>Фото</source>
+          <target state="translated">Фото</target>
+        </trans-unit>
+        <trans-unit id="verified" translate="yes" xml:space="preserve">
+          <source>Подтверждённая страница</source>
+          <target state="translated">Підтверджена сторінка</target>
+        </trans-unit>
+        <trans-unit id="view_all_images" translate="yes" xml:space="preserve">
+          <source>Просмотреть все изображения</source>
+          <target state="translated">Переглянути всі зображення</target>
+        </trans-unit>
+        <trans-unit id="history" translate="yes" xml:space="preserve">
+          <source>История</source>
+          <target state="translated">Iсторія</target>
+        </trans-unit>
+        <trans-unit id="Connection_settings" translate="yes" xml:space="preserve">
+          <source>Настройки соединения</source>
+          <target state="translated">Налаштування з'єднання</target>
+        </trans-unit>
+        <trans-unit id="Without_proxy" translate="yes" xml:space="preserve">
+          <source>Без прокси</source>
+          <target state="translated">Без проксі</target>
+        </trans-unit>
+        <trans-unit id="ProxyHost" translate="yes" xml:space="preserve">
+          <source>Адрес хоста</source>
+          <target state="translated">Адреса хоста</target>
+        </trans-unit>
+        <trans-unit id="ProxyPort" translate="yes" xml:space="preserve">
+          <source>Порт</source>
+          <target state="translated">Порт</target>
+        </trans-unit>
+        <trans-unit id="Apply" translate="yes" xml:space="preserve">
+          <source>Применить</source>
+          <target state="translated">Застосувати</target>
+        </trans-unit>
+        <trans-unit id="LastNetworkError" translate="yes" xml:space="preserve">
+          <source>Последние сетевые ошибки:</source>
+          <target state="translated">Останні помилки мережі:</target>
+        </trans-unit>
+        <trans-unit id="ViewError" translate="yes" xml:space="preserve">
+          <source>Просмотреть ошибки</source>
+          <target state="translated">Переглянути помилки</target>
+        </trans-unit>
+        <trans-unit id="RemoveErrors" translate="yes" xml:space="preserve">
+          <source>Удалить ошибки</source>
+          <target state="translated">Видалити помилки</target>
+        </trans-unit>
+        <trans-unit id="Acrylic" translate="yes" xml:space="preserve">
+          <source>Акрил</source>
+          <target state="translated">Акрил</target>
+        </trans-unit>
+        <trans-unit id="AcrylicDark" translate="yes" xml:space="preserve">
+          <source>Темный Акрил</source>
+          <target state="translated">Темний Акрил</target>
+        </trans-unit>
+        <trans-unit id="PermanentOnline" translate="yes" xml:space="preserve">
+          <source>Постоянный онлайн</source>
+          <target state="translated">Постійний онлайн</target>
+        </trans-unit>
+        <trans-unit id="PermanentOnline_disabled" translate="yes" xml:space="preserve">
+          <source>Постоянный онлайн выключен</source>
+          <target state="translated">Постійний онлайн вимкнений</target>
+        </trans-unit>
+        <trans-unit id="PermanentOnline_enabled" translate="yes" xml:space="preserve">
+          <source>Постоянный онлайн включен</source>
+          <target state="translated">Постійний онлайн увімкнено</target>
+        </trans-unit>
+        <trans-unit id="Menu" translate="yes" xml:space="preserve">
+          <source>Меню</source>
+          <target state="translated">Меню</target>
+        </trans-unit>
+        <trans-unit id="addChatUser" translate="yes" xml:space="preserve">
+          <source>Добавить собеседников</source>
+          <target state="translated">Додати співрозмовників</target>
+        </trans-unit>
+        <trans-unit id="EnterChatTitle" translate="yes" xml:space="preserve">
+          <source>Введите название беседы</source>
+          <target state="translated">Введіть назву бесіди</target>
+        </trans-unit>
+        <trans-unit id="EditFlag" translate="yes" xml:space="preserve">
+          <source>Ред.</source>
+          <target state="translated">Ред.</target>
+        </trans-unit>
+        <trans-unit id="Changed" translate="yes" xml:space="preserve">
+          <source>Изменено</source>
+          <target state="translated">Змінено</target>
+        </trans-unit>
+        <trans-unit id="chat_pin_message" translate="yes" xml:space="preserve">
+          <source>Закреплено сообщение</source>
+          <target state="translated">Закріплено повідомлення</target>
+        </trans-unit>
+        <trans-unit id="chat_unpin_message" translate="yes" xml:space="preserve">
+          <source>Откреплено сообщение.</source>
+          <target state="translated">Відкріплено повідомлення.</target>
+        </trans-unit>
+        <trans-unit id="chat_invite_user_by_link" translate="yes" xml:space="preserve">
+          <source>Пользователь присоединился к беседе по ссылке</source>
+          <target state="translated">Користувач приєднався до бесіди за посиланням</target>
+        </trans-unit>
+        <trans-unit id="Edit" translate="yes" xml:space="preserve">
+          <source>Изменить</source>
+          <target state="translated">Змінити</target>
+        </trans-unit>
+        <trans-unit id="Location" translate="yes" xml:space="preserve">
+          <source>Расположение</source>
+          <target state="translated">Розташування</target>
+        </trans-unit>
+        <trans-unit id="Primary" translate="yes" xml:space="preserve">
+          <source>Главный</source>
+          <target state="translated">Головний</target>
+        </trans-unit>
+        <trans-unit id="Vibro" translate="yes" xml:space="preserve">
+          <source>Вибрация</source>
+          <target state="translated">Вібрація</target>
+        </trans-unit>
+        <trans-unit id="Xinput1_4DllError" translate="yes" xml:space="preserve">
+          <source>В системе не обнаружена библиотека xinput1_4.dll</source>
+          <target state="translated">У системі не виявлена бібліотека xinput1_4.dll</target>
+        </trans-unit>
+        <trans-unit id="ErrorFFB" translate="yes" xml:space="preserve">
+          <source>Вибрация не поддерживается</source>
+          <target state="translated">Вібрація не підтримується</target>
+        </trans-unit>
+        <trans-unit id="test" translate="yes" xml:space="preserve">
+          <source>Тест</source>
+          <target state="new">Тест</target>
+        </trans-unit>
+        <trans-unit id="NoAudioText" translate="yes" xml:space="preserve">
+          <source>С 16.12.2018 ВКонтакте изменило политику предоставления API для работы с аудиозаписями, потому раздел аудио был удален из MicroVK. Приложения сторонних разработчиков теперь не могут обращаться к большинству методов секции audio.
+    Подробности:</source>
+          <target state="translated">З 16.12.2018 ВКонтакте змінило політику надання API для роботи з аудіозаписами, тому розділ аудіо був видалений з MicroVK. Програми сторонніх виробників тепер не можуть звертатися до більшості методів секції audio.
+     подробиці:</target>
+        </trans-unit>
+        <trans-unit id="ProxyAuto" translate="yes" xml:space="preserve">
+          <source>Автонастройка прокси</source>
+          <target state="translated">Автоналаштування проксі</target>
+        </trans-unit>
+        <trans-unit id="UnableVKConnect" translate="yes" xml:space="preserve">
+          <source>Не удалось соединиться с VK.COM</source>
+          <target state="translated">Не вдалось з'єднатися з VK.COM</target>
+        </trans-unit>
+        <trans-unit id="Check" translate="yes" xml:space="preserve">
+          <source>Проверяем</source>
+          <target state="translated">Перевіряємо</target>
+        </trans-unit>
+        <trans-unit id="InernetAvariable" translate="yes" xml:space="preserve">
+          <source>Доступность сетевого соединения</source>
+          <target state="translated">Доступність підключення до мережі</target>
+        </trans-unit>
+        <trans-unit id="VKAvariable" translate="yes" xml:space="preserve">
+          <source>Доступность ВКонтакте</source>
+          <target state="translated">Доступність ВКонтакте</target>
+        </trans-unit>
+        <trans-unit id="GoogleAvariable" translate="yes" xml:space="preserve">
+          <source>Доступность интернета (соединение с google.com)...</source>
+          <target state="translated">Доступність Інтернету (з'єднання з google.com) ...</target>
+        </trans-unit>
+        <trans-unit id="AutoSetup" translate="yes" xml:space="preserve">
+          <source>Автонастройка</source>
+          <target state="translated">Автоналаштування</target>
+        </trans-unit>
+        <trans-unit id="Skip" translate="yes" xml:space="preserve">
+          <source>Пропустить</source>
+          <target state="translated">Пропустити</target>
+        </trans-unit>
+        <trans-unit id="Recommend" translate="yes" xml:space="preserve">
+          <source>(рекомендуется)</source>
+          <target state="translated">(рекомендується)</target>
+        </trans-unit>
+        <trans-unit id="Init" translate="yes" xml:space="preserve">
+          <source>Инициализация</source>
+          <target state="translated">Ініціалізація</target>
+        </trans-unit>
+        <trans-unit id="InitNetwork" translate="yes" xml:space="preserve">
+          <source>Инициализация настроек сети</source>
+          <target state="translated">Ініціалізація налаштувань мережі</target>
         </trans-unit>
       </group>
     </body>
