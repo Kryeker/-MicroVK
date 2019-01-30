@@ -291,10 +291,6 @@
           <source>Любимые цитаты</source>
           <target state="translated" state-qualifier="mt-suggestion">Favorite quotes</target>
         </trans-unit>
-        <trans-unit id="Favourite_teleshows" translate="yes" xml:space="preserve">
-          <source>Любимые телешоу</source>
-          <target state="translated">Favorite TV-Shows</target>
-        </trans-unit>
         <trans-unit id="Followers" translate="yes" xml:space="preserve">
           <source>Подписчики</source>
           <target state="translated" state-qualifier="tm-suggestion">Subscribers</target>
@@ -402,10 +398,6 @@
         <trans-unit id="political_preferences" translate="yes" xml:space="preserve">
           <source>Политические предпочтения</source>
           <target state="translated" state-qualifier="mt-suggestion">Political preferences</target>
-        </trans-unit>
-        <trans-unit id="programm" translate="yes" xml:space="preserve">
-          <source>Программа</source>
-          <target state="translated">Application</target>
         </trans-unit>
         <trans-unit id="right_edge" translate="yes" xml:space="preserve">
           <source>Правый край</source>
@@ -626,10 +618,6 @@
         <trans-unit id="InDeveloping" translate="yes" xml:space="preserve">
           <source>В разработке</source>
           <target state="translated">Under development</target>
-        </trans-unit>
-        <trans-unit id="AboutProgramm" translate="yes" xml:space="preserve">
-          <source>О программе</source>
-          <target state="translated" state-qualifier="tm-suggestion">About</target>
         </trans-unit>
         <trans-unit id="addToYourAudio" translate="yes" xml:space="preserve">
           <source>Добавлено в Ваши аудиозаписи</source>
@@ -2112,10 +2100,6 @@ https://vk.com/microvk</target>
           <source>Главный</source>
           <target state="new">Главный</target>
         </trans-unit>
-        <trans-unit id="Vibro" translate="yes" xml:space="preserve">
-          <source>Вибрация</source>
-          <target state="new">Вибрация</target>
-        </trans-unit>
         <trans-unit id="Xinput1_4DllError" translate="yes" xml:space="preserve">
           <source>В системе не обнаружена библиотека xinput1_4.dll</source>
           <target state="new">В системе не обнаружена библиотека xinput1_4.dll</target>
@@ -2146,18 +2130,6 @@ https://vk.com/microvk</target>
           <source>Проверяем</source>
           <target state="new">Проверяем</target>
         </trans-unit>
-        <trans-unit id="InernetAvariable" translate="yes" xml:space="preserve">
-          <source>Доступность сетевого соединения</source>
-          <target state="new">Доступность сетевого соединения</target>
-        </trans-unit>
-        <trans-unit id="VKAvariable" translate="yes" xml:space="preserve">
-          <source>Доступность ВКонтакте</source>
-          <target state="new">Доступность ВКонтакте</target>
-        </trans-unit>
-        <trans-unit id="GoogleAvariable" translate="yes" xml:space="preserve">
-          <source>Доступность интернета (соединение с google.com)...</source>
-          <target state="new">Доступность интернета (соединение с google.com)...</target>
-        </trans-unit>
         <trans-unit id="AutoSetup" translate="yes" xml:space="preserve">
           <source>Автонастройка</source>
           <target state="new">Автонастройка</target>
@@ -2177,6 +2149,34 @@ https://vk.com/microvk</target>
         <trans-unit id="InitNetwork" translate="yes" xml:space="preserve">
           <source>Инициализация настроек сети</source>
           <target state="new">Инициализация настроек сети</target>
+        </trans-unit>
+        <trans-unit id="favorite_teleshows" translate="yes" xml:space="preserve">
+          <source>Любимые телешоу</source>
+          <target state="new">Любимые телешоу</target>
+        </trans-unit>
+        <trans-unit id="program" translate="yes" xml:space="preserve">
+          <source>Программа</source>
+          <target state="new">Программа</target>
+        </trans-unit>
+        <trans-unit id="AboutProgram" translate="yes" xml:space="preserve">
+          <source>О программе</source>
+          <target state="new">О программе</target>
+        </trans-unit>
+        <trans-unit id="Vibration" translate="yes" xml:space="preserve">
+          <source>Вибрация</source>
+          <target state="new">Вибрация</target>
+        </trans-unit>
+        <trans-unit id="InternetAvailable" translate="yes" xml:space="preserve">
+          <source>Доступность сетевого соединения</source>
+          <target state="new">Доступность сетевого соединения</target>
+        </trans-unit>
+        <trans-unit id="VKAvailable" translate="yes" xml:space="preserve">
+          <source>Доступность ВКонтакте</source>
+          <target state="new">Доступность ВКонтакте</target>
+        </trans-unit>
+        <trans-unit id="GoogleAvailable" translate="yes" xml:space="preserve">
+          <source>Доступность интернета (соединение с google.com)...</source>
+          <target state="new">Доступность интернета (соединение с google.com)...</target>
         </trans-unit>
       </group>
     </body>

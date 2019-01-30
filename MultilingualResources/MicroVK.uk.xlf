@@ -230,10 +230,6 @@
           <source>Внешний вид</source>
           <target state="translated">Оформлення</target>
         </trans-unit>
-        <trans-unit id="programm" translate="yes" xml:space="preserve">
-          <source>Программа</source>
-          <target state="translated">Програма</target>
-        </trans-unit>
         <trans-unit id="voice_notification" translate="yes" xml:space="preserve">
           <source>Голосовые уведомления</source>
           <target state="translated">Голосові сповіщення</target>
@@ -309,10 +305,6 @@
         <trans-unit id="favorite_Quotes" translate="yes" xml:space="preserve">
           <source>Любимые цитаты</source>
           <target state="translated">Улюблені цитати</target>
-        </trans-unit>
-        <trans-unit id="Favourite_teleshows" translate="yes" xml:space="preserve">
-          <source>Любимые телешоу</source>
-          <target state="translated">Улюблені ТВ-шоу</target>
         </trans-unit>
         <trans-unit id="Followers" translate="yes" xml:space="preserve">
           <source>Подписчики</source>
@@ -949,10 +941,6 @@
         <trans-unit id="user_deleted" translate="yes" xml:space="preserve">
           <source>страница пользователя удалена</source>
           <target state="translated">сторінку користувача видалено</target>
-        </trans-unit>
-        <trans-unit id="AboutProgramm" translate="yes" xml:space="preserve">
-          <source>О программе</source>
-          <target state="translated">Про програму</target>
         </trans-unit>
         <trans-unit id="BrowserLoginError1" translate="yes" xml:space="preserve">
           <source>Не удалось определить ключ доступа</source>
@@ -1780,8 +1768,8 @@ https://vk.com/microvk</target>
         <trans-unit id="audioTokenTips1" translate="yes" xml:space="preserve">
           <source>С 16 декабря ВКонтакте прекратил доступ к аудиозаписям для всех сторонних приложений, включая MicroVK. 
 После ввода учетных данных, MicroVK попытается использовать id официального приложения ВКонтакте, для восстановления доступа к аудиозаписям</source>
-          <target state="translated">З 16 грудня ВКонтакті припинив доступ до аудіозаписів для всіх сторонніх додатків, включаючи MicroVK.
-Після введення облікових даних, MicroVK спробує використати id офіційного додатку Вконтакті, для востановленія доступу до аудіозаписів</target>
+          <target state="translated">З 16 грудня ВКонтакте припинив доступ до аудіозаписів для всіх сторонніх додатків, включаючи MicroVK.
+Після введення облікових даних, MicroVK спробує використовувати id офіційного додатку ВКонтакте, для відновлення доступу до аудіозаписів</target>
         </trans-unit>
         <trans-unit id="audioTokenTitle" translate="yes" xml:space="preserve">
           <source>Доступ к аудио</source>
@@ -2107,10 +2095,6 @@ https://vk.com/microvk</target>
           <source>Главный</source>
           <target state="translated">Головний</target>
         </trans-unit>
-        <trans-unit id="Vibro" translate="yes" xml:space="preserve">
-          <source>Вибрация</source>
-          <target state="translated">Вібрація</target>
-        </trans-unit>
         <trans-unit id="Xinput1_4DllError" translate="yes" xml:space="preserve">
           <source>В системе не обнаружена библиотека xinput1_4.dll</source>
           <target state="translated">У системі не виявлена бібліотека xinput1_4.dll</target>
@@ -2126,7 +2110,7 @@ https://vk.com/microvk</target>
         <trans-unit id="NoAudioText" translate="yes" xml:space="preserve">
           <source>С 16.12.2018 ВКонтакте изменило политику предоставления API для работы с аудиозаписями, потому раздел аудио был удален из MicroVK. Приложения сторонних разработчиков теперь не могут обращаться к большинству методов секции audio.
     Подробности:</source>
-          <target state="translated">З 16.12.2018 ВКонтакте змінило політику надання API для роботи з аудіозаписами, тому розділ аудіо був видалений з MicroVK. Програми сторонніх виробників тепер не можуть звертатися до більшості методів секції audio.
+          <target state="translated">З 16.12.2016 ВКонтакте змінило політику надання API для роботи з аудіозаписами, тому розділ аудіо був видалений з MicroVK. Програми сторонніх виробників тепер не можуть звертатися до більшості методів секції audio.
      подробиці:</target>
         </trans-unit>
         <trans-unit id="ProxyAuto" translate="yes" xml:space="preserve">
@@ -2140,18 +2124,6 @@ https://vk.com/microvk</target>
         <trans-unit id="Check" translate="yes" xml:space="preserve">
           <source>Проверяем</source>
           <target state="translated">Перевіряємо</target>
-        </trans-unit>
-        <trans-unit id="InernetAvariable" translate="yes" xml:space="preserve">
-          <source>Доступность сетевого соединения</source>
-          <target state="translated">Доступність підключення до мережі</target>
-        </trans-unit>
-        <trans-unit id="VKAvariable" translate="yes" xml:space="preserve">
-          <source>Доступность ВКонтакте</source>
-          <target state="translated">Доступність ВКонтакте</target>
-        </trans-unit>
-        <trans-unit id="GoogleAvariable" translate="yes" xml:space="preserve">
-          <source>Доступность интернета (соединение с google.com)...</source>
-          <target state="translated">Доступність Інтернету (з'єднання з google.com) ...</target>
         </trans-unit>
         <trans-unit id="AutoSetup" translate="yes" xml:space="preserve">
           <source>Автонастройка</source>
@@ -2172,6 +2144,34 @@ https://vk.com/microvk</target>
         <trans-unit id="InitNetwork" translate="yes" xml:space="preserve">
           <source>Инициализация настроек сети</source>
           <target state="translated">Ініціалізація налаштувань мережі</target>
+        </trans-unit>
+        <trans-unit id="favorite_teleshows" translate="yes" xml:space="preserve">
+          <source>Любимые телешоу</source>
+          <target state="translated">Улюблені телешоу</target>
+        </trans-unit>
+        <trans-unit id="program" translate="yes" xml:space="preserve">
+          <source>Программа</source>
+          <target state="translated">Программа</target>
+        </trans-unit>
+        <trans-unit id="AboutProgram" translate="yes" xml:space="preserve">
+          <source>О программе</source>
+          <target state="translated">Про програму</target>
+        </trans-unit>
+        <trans-unit id="Vibration" translate="yes" xml:space="preserve">
+          <source>Вибрация</source>
+          <target state="translated">Вібрація</target>
+        </trans-unit>
+        <trans-unit id="InternetAvailable" translate="yes" xml:space="preserve">
+          <source>Доступность сетевого соединения</source>
+          <target state="translated">Доступність підключення до мережі</target>
+        </trans-unit>
+        <trans-unit id="VKAvailable" translate="yes" xml:space="preserve">
+          <source>Доступность ВКонтакте</source>
+          <target state="translated">Доступність ВКонтакте</target>
+        </trans-unit>
+        <trans-unit id="GoogleAvailable" translate="yes" xml:space="preserve">
+          <source>Доступность интернета (соединение с google.com)...</source>
+          <target state="translated">Доступність Інтернету (з'єднання з google.com) ...</target>
         </trans-unit>
       </group>
     </body>
