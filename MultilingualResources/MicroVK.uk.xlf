@@ -2108,10 +2108,11 @@ https://vk.com/microvk</target>
           <target state="new">Тест</target>
         </trans-unit>
         <trans-unit id="NoAudioText" translate="yes" xml:space="preserve">
-          <source>С 16.12.2018 ВКонтакте изменило политику предоставления API для работы с аудиозаписями, потому раздел аудио был удален из MicroVK. Приложения сторонних разработчиков теперь не могут обращаться к большинству методов секции audio.
+          <source>С 16.12.2016 ВКонтакте изменило политику предоставления API для работы с аудиозаписями, потому раздел аудио был удален из MicroVK. Приложения сторонних разработчиков теперь не могут обращаться к большинству методов секции audio.
     Подробности:</source>
-          <target state="translated">З 16.12.2016 ВКонтакте змінило політику надання API для роботи з аудіозаписами, тому розділ аудіо був видалений з MicroVK. Програми сторонніх виробників тепер не можуть звертатися до більшості методів секції audio.
+          <target state="needs-review-translation">З 16.12.2016 ВКонтакте змінило політику надання API для роботи з аудіозаписами, тому розділ аудіо був видалений з MicroVK. Програми сторонніх виробників тепер не можуть звертатися до більшості методів секції audio.
      подробиці:</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="ProxyAuto" translate="yes" xml:space="preserve">
           <source>Автонастройка прокси</source>
