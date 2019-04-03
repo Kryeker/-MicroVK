@@ -1766,10 +1766,11 @@ https://vk.com/microvk</target>
           <target state="translated">Чому потрібно повторно ввести облікові дані</target>
         </trans-unit>
         <trans-unit id="audioTokenTips1" translate="yes" xml:space="preserve">
-          <source>С 16 декабря ВКонтакте прекратил доступ к аудиозаписям для всех сторонних приложений, включая MicroVK. 
+          <source>С 16 декабря ВКонтакте прекратил доступ к аудиозаписям для всех сторонних приложений, включая MicroVK.
 После ввода учетных данных, MicroVK попытается использовать id официального приложения ВКонтакте, для восстановления доступа к аудиозаписям</source>
-          <target state="translated">З 16 грудня ВКонтакте припинив доступ до аудіозаписів для всіх сторонніх додатків, включаючи MicroVK.
+          <target state="needs-review-translation">З 16 грудня ВКонтакте припинив доступ до аудіозаписів для всіх сторонніх додатків, включаючи MicroVK.
 Після введення облікових даних, MicroVK спробує використовувати id офіційного додатку ВКонтакте, для відновлення доступу до аудіозаписів</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="audioTokenTitle" translate="yes" xml:space="preserve">
           <source>Доступ к аудио</source>
@@ -2173,6 +2174,23 @@ https://vk.com/microvk</target>
         <trans-unit id="GoogleAvailable" translate="yes" xml:space="preserve">
           <source>Доступность интернета (соединение с google.com)...</source>
           <target state="translated">Доступність Інтернету (з'єднання з google.com) ...</target>
+        </trans-unit>
+        <trans-unit id="out_call" translate="yes" xml:space="preserve">
+          <source>Исходящий звонок</source>
+          <target state="new">Исходящий звонок</target>
+        </trans-unit>
+        <trans-unit id="in_call" translate="yes" xml:space="preserve">
+          <source>in_call</source>
+          <target state="new">in_call</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Входящий звонок</note>
+        </trans-unit>
+        <trans-unit id="canceled_by_initiator" translate="yes" xml:space="preserve">
+          <source>отменен звонящим</source>
+          <target state="new">отменен звонящим</target>
+        </trans-unit>
+        <trans-unit id="reached" translate="yes" xml:space="preserve">
+          <source>достигнут</source>
+          <target state="new">достигнут</target>
         </trans-unit>
       </group>
     </body>
